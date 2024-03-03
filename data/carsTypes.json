@@ -1,0 +1,782 @@
+[
+    {
+        "id": 24518,
+        "label_ar": "VGV",
+        "label_en": "VGV",
+        "url_name": "vgv"
+    },
+    {
+        "id": 22946,
+        "label_ar": "أبارث",
+        "label_en": "Abarath",
+        "url_name": "أبارث"
+    },
+    {
+        "id": 97,
+        "label_ar": "أوبل",
+        "label_en": "Opel",
+        "url_name": "أوبل"
+    },
+    {
+        "id": 2715,
+        "label_ar": "أودي",
+        "label_en": "Audi",
+        "url_name": "أودي"
+    },
+    {
+        "id": 2719,
+        "label_ar": "إنفينيتي",
+        "label_en": "Infiniti",
+        "url_name": "إنفينيتي"
+    },
+    {
+        "id": 2713,
+        "label_ar": "استون مارتن",
+        "label_en": "Aston Martin",
+        "url_name": "استون-مارتن"
+    },
+    {
+        "id": 6011,
+        "label_ar": "اكيورا",
+        "label_en": "Acura",
+        "url_name": "اكيورا"
+    },
+    {
+        "id": 2553,
+        "label_ar": "الفا روميو",
+        "label_en": "Alfa Romeo",
+        "url_name": "الفا-روميو"
+    },
+    {
+        "id": 5857,
+        "label_ar": "ام جي",
+        "label_en": "MG",
+        "url_name": "ام-جي"
+    },
+    {
+        "id": 24514,
+        "label_ar": "اومودا",
+        "label_en": "Omoda",
+        "url_name": "اومودا"
+    },
+    {
+        "id": 5941,
+        "label_ar": "ايران خودرو",
+        "label_en": "Iran Khodro",
+        "url_name": "ايران-خودرو"
+    },
+    {
+        "id": 2717,
+        "label_ar": "ايسوزو",
+        "label_en": "Isuzu",
+        "url_name": "ايسوزو"
+    },
+    {
+        "id": 13495,
+        "label_ar": "ايفيكو",
+        "label_en": "Iveco",
+        "url_name": "ايفيكو"
+    },
+    {
+        "id": 24508,
+        "label_ar": "اينوس",
+        "label_en": "Ineos",
+        "url_name": "اينوس"
+    },
+    {
+        "id": 6079,
+        "label_ar": "باجاني",
+        "label_en": "Pagani",
+        "url_name": "باجاني"
+    },
+    {
+        "id": 10958,
+        "label_ar": "بايك",
+        "label_en": "BAIC",
+        "url_name": "بايك"
+    },
+    {
+        "id": 9892,
+        "label_ar": "برايفت",
+        "label_en": "Private",
+        "url_name": "برايفت"
+    },
+    {
+        "id": 5867,
+        "label_ar": "بروتون",
+        "label_en": "Proton",
+        "url_name": "بروتون"
+    },
+    {
+        "id": 5877,
+        "label_ar": "بريليانس",
+        "label_en": "Brilliance",
+        "url_name": "بريليانس"
+    },
+    {
+        "id": 18275,
+        "label_ar": "بستيون",
+        "label_en": "Bestune",
+        "url_name": "بستيون"
+    },
+    {
+        "id": 2721,
+        "label_ar": "بنتلي",
+        "label_en": "Bentley",
+        "url_name": "بنتلي"
+    },
+    {
+        "id": 13494,
+        "label_ar": "بورجوارد",
+        "label_en": "Borgward",
+        "url_name": "بورجوارد"
+    },
+    {
+        "id": 2723,
+        "label_ar": "بورش",
+        "label_en": "Porsche",
+        "url_name": "بورش"
+    },
+    {
+        "id": 5971,
+        "label_ar": "بوغاتي",
+        "label_en": "Bugatti",
+        "url_name": "بوغاتي"
+    },
+    {
+        "id": 22872,
+        "label_ar": "بولستار",
+        "label_en": "Polestar",
+        "url_name": "بولستار"
+    },
+    {
+        "id": 2725,
+        "label_ar": "بونتياك",
+        "label_en": "Pontiac",
+        "url_name": "بونتياك"
+    },
+    {
+        "id": 5985,
+        "label_ar": "بويك",
+        "label_en": "Buick",
+        "url_name": "بويك"
+    },
+    {
+        "id": 99,
+        "label_ar": "بي ام دبليو",
+        "label_en": "BMW",
+        "url_name": "بي-ام-دبليو"
+    },
+    {
+        "id": 5895,
+        "label_ar": "بي واي دي",
+        "label_en": "BYD",
+        "url_name": "بي-واي-دي"
+    },
+    {
+        "id": 101,
+        "label_ar": "بيجو",
+        "label_en": "Peugeot",
+        "url_name": "بيجو"
+    },
+    {
+        "id": 5947,
+        "label_ar": "تاتا",
+        "label_en": "TATA",
+        "url_name": "تاتا"
+    },
+    {
+        "id": 24510,
+        "label_ar": "تانك",
+        "label_en": "Tank",
+        "url_name": "تانك"
+    },
+    {
+        "id": 103,
+        "label_ar": "تويوتا",
+        "label_en": "Toyota",
+        "url_name": "تويوتا"
+    },
+    {
+        "id": 5931,
+        "label_ar": "تيسلا",
+        "label_en": "Tesla",
+        "url_name": "تيسلا"
+    },
+    {
+        "id": 8056,
+        "label_ar": "جاك",
+        "label_en": "Jac",
+        "url_name": "جاك"
+    },
+    {
+        "id": 2727,
+        "label_ar": "جاكوار",
+        "label_en": "Jaguar",
+        "url_name": "جاكوار"
+    },
+    {
+        "id": 23588,
+        "label_ar": "جاي ام اي في",
+        "label_en": "JMEV",
+        "url_name": "جاي-ام-اي-في"
+    },
+    {
+        "id": 22230,
+        "label_ar": "جاي ام سي",
+        "label_en": "JMC",
+        "url_name": "جاي-ام-سي"
+    },
+    {
+        "id": 2729,
+        "label_ar": "جريت وول",
+        "label_en": "Great Wall",
+        "url_name": "جريت-وول"
+    },
+    {
+        "id": 16705,
+        "label_ar": "جي أيه سي",
+        "label_en": "GAC",
+        "url_name": "جي-أيه-سي"
+    },
+    {
+        "id": 2731,
+        "label_ar": "جي إم سي",
+        "label_en": "GMC",
+        "url_name": "جي-إم-سي"
+    },
+    {
+        "id": 105,
+        "label_ar": "جيب",
+        "label_en": "Jeep",
+        "url_name": "جيب"
+    },
+    {
+        "id": 17534,
+        "label_ar": "جيتور",
+        "label_en": "Jetour",
+        "url_name": "جيتور"
+    },
+    {
+        "id": 5821,
+        "label_ar": "جيلي",
+        "label_en": "Geely",
+        "url_name": "جيلي"
+    },
+    {
+        "id": 22870,
+        "label_ar": "جينبي",
+        "label_en": "Jinbei",
+        "url_name": "جينبي"
+    },
+    {
+        "id": 107,
+        "label_ar": "دايهاتسو",
+        "label_en": "Daihatsu",
+        "url_name": "دايهاتسو"
+    },
+    {
+        "id": 109,
+        "label_ar": "دايو",
+        "label_en": "Daewoo",
+        "url_name": "دايو"
+    },
+    {
+        "id": 22874,
+        "label_ar": "دايون",
+        "label_en": "Dayun",
+        "url_name": "دايون"
+    },
+    {
+        "id": 2733,
+        "label_ar": "دودج",
+        "label_en": "Dodge",
+        "url_name": "دودج"
+    },
+    {
+        "id": 22868,
+        "label_ar": "دورسن",
+        "label_en": "Dorcen",
+        "url_name": "دورسن"
+    },
+    {
+        "id": 19733,
+        "label_ar": "دونج فينج",
+        "label_en": "Dongfeng",
+        "url_name": "دونج-فينج"
+    },
+    {
+        "id": 13226,
+        "label_ar": "دي اف ام",
+        "label_en": "DFM",
+        "url_name": "دي-اف-ام"
+    },
+    {
+        "id": 2735,
+        "label_ar": "روفر",
+        "label_en": "Rover",
+        "url_name": "روفر"
+    },
+    {
+        "id": 2737,
+        "label_ar": "رولز رویس",
+        "label_en": "Rolls Royce",
+        "url_name": "رولز-رویس"
+    },
+    {
+        "id": 111,
+        "label_ar": "رينو",
+        "label_en": "Renault",
+        "url_name": "رينو"
+    },
+    {
+        "id": 5849,
+        "label_ar": "زد إكس أوتو",
+        "label_en": "ZXAUTO",
+        "url_name": "زد-إكس-أوتو"
+    },
+    {
+        "id": 16727,
+        "label_ar": "زوتي",
+        "label_en": "Zotye",
+        "url_name": "سيارات-زوتي"
+    },
+    {
+        "id": 2739,
+        "label_ar": "ساب",
+        "label_en": "Saab",
+        "url_name": "ساب"
+    },
+    {
+        "id": 2741,
+        "label_ar": "ساتورن",
+        "label_en": "Saturn",
+        "url_name": "ساتورن"
+    },
+    {
+        "id": 5915,
+        "label_ar": "سامسونج",
+        "label_en": "Samsung",
+        "url_name": "سامسونج"
+    },
+    {
+        "id": 2743,
+        "label_ar": "سانغ يونغ",
+        "label_en": "SsangYong",
+        "url_name": "سانغ-يونغ"
+    },
+    {
+        "id": 15793,
+        "label_ar": "ساوايست ‬ ‫",
+        "label_en": "Soueast",
+        "url_name": "ساوايست"
+    },
+    {
+        "id": 8397,
+        "label_ar": "سايبا",
+        "label_en": "SAIPA",
+        "url_name": "سايبا"
+    },
+    {
+        "id": 15803,
+        "label_ar": "سايك",
+        "label_en": "Saic",
+        "url_name": "سايك"
+    },
+    {
+        "id": 24512,
+        "label_ar": "سبايكر",
+        "label_en": "Spyker",
+        "url_name": "سبايكر"
+    },
+    {
+        "id": 2745,
+        "label_ar": "ستيروين",
+        "label_en": "Citroen",
+        "url_name": "ستيروين"
+    },
+    {
+        "id": 18277,
+        "label_ar": "سكاي ويل",
+        "label_en": "Skywell",
+        "url_name": "سكاي-ويل"
+    },
+    {
+        "id": 115,
+        "label_ar": "سكودا",
+        "label_en": "Skoda",
+        "url_name": "سكودا"
+    },
+    {
+        "id": 16695,
+        "label_ar": "سمارت",
+        "label_en": "Smart",
+        "url_name": "نوع-سمارت"
+    },
+    {
+        "id": 2747,
+        "label_ar": "سوبارو",
+        "label_en": "Subaru",
+        "url_name": "سوبارو"
+    },
+    {
+        "id": 117,
+        "label_ar": "سوزوكي",
+        "label_en": "Suzuki",
+        "url_name": "سوزوكي"
+    },
+    {
+        "id": 15795,
+        "label_ar": "سي إم سي",
+        "label_en": "CMC",
+        "url_name": "سي-إم-سي"
+    },
+    {
+        "id": 119,
+        "label_ar": "سيات",
+        "label_en": "SEAT",
+        "url_name": "سيات"
+    },
+    {
+        "id": 6043,
+        "label_ar": "سيون",
+        "label_en": "Scion",
+        "url_name": "سيون"
+    },
+    {
+        "id": 12579,
+        "label_ar": "شانجان",
+        "label_en": "Changan",
+        "url_name": "شانجان"
+    },
+    {
+        "id": 113,
+        "label_ar": "شيري",
+        "label_en": "Chery",
+        "url_name": "شيري"
+    },
+    {
+        "id": 121,
+        "label_ar": "شيفروليه",
+        "label_en": "Chevrolet",
+        "url_name": "شيفروليه"
+    },
+    {
+        "id": 8391,
+        "label_ar": "فاو",
+        "label_en": "FAW",
+        "url_name": "فاو"
+    },
+    {
+        "id": 8393,
+        "label_ar": "فوتون",
+        "label_en": "Foton",
+        "url_name": "فوتون"
+    },
+    {
+        "id": 123,
+        "label_ar": "فورد",
+        "label_en": "Ford",
+        "url_name": "فورد"
+    },
+    {
+        "id": 15797,
+        "label_ar": "فورس",
+        "label_en": "Force",
+        "url_name": "فورس"
+    },
+    {
+        "id": 2749,
+        "label_ar": "فولفو",
+        "label_en": "Volvo",
+        "url_name": "فولفو"
+    },
+    {
+        "id": 125,
+        "label_ar": "فولكسفاغن",
+        "label_en": "Volkswagen",
+        "url_name": "فولكسفاغن"
+    },
+    {
+        "id": 127,
+        "label_ar": "فيات",
+        "label_en": "Fiat",
+        "url_name": "فيات"
+    },
+    {
+        "id": 2751,
+        "label_ar": "فيراري",
+        "label_en": "Ferrari",
+        "url_name": "فيراري"
+    },
+    {
+        "id": 15799,
+        "label_ar": "فيسكر",
+        "label_en": "Fisker",
+        "url_name": "فيسكر"
+    },
+    {
+        "id": 24504,
+        "label_ar": "كاتر هام",
+        "label_en": "Caterham",
+        "url_name": "كاتر-هام"
+    },
+    {
+        "id": 2753,
+        "label_ar": "كاديلاك",
+        "label_en": "Cadillac",
+        "url_name": "كاديلاك"
+    },
+    {
+        "id": 21591,
+        "label_ar": "كاي يي",
+        "label_en": "Kaiyi",
+        "url_name": "كاي-يي"
+    },
+    {
+        "id": 2755,
+        "label_ar": "كرايسلر",
+        "label_en": "Chrysler",
+        "url_name": "كرايسلر"
+    },
+    {
+        "id": 24516,
+        "label_ar": "كوينيجسيج",
+        "label_en": "Koenigsegg",
+        "url_name": "كوينيجسيج"
+    },
+    {
+        "id": 129,
+        "label_ar": "كيا",
+        "label_en": "Kia",
+        "url_name": "كيا"
+    },
+    {
+        "id": 24506,
+        "label_ar": "كينج لونج",
+        "label_en": "King Long",
+        "url_name": "كينج-لونج"
+    },
+    {
+        "id": 131,
+        "label_ar": "لادا",
+        "label_en": "Lada",
+        "url_name": "لادا"
+    },
+    {
+        "id": 2757,
+        "label_ar": "لامبورغيني",
+        "label_en": "Lamborghini",
+        "url_name": "لامبورغيني"
+    },
+    {
+        "id": 2759,
+        "label_ar": "لاند روفر",
+        "label_en": "Land Rover",
+        "url_name": "لاند-روفر"
+    },
+    {
+        "id": 6087,
+        "label_ar": "لانسيا",
+        "label_en": "Lancia",
+        "url_name": "لانسيا"
+    },
+    {
+        "id": 2761,
+        "label_ar": "لكزس",
+        "label_en": "Lexus",
+        "url_name": "لكزس"
+    },
+    {
+        "id": 2763,
+        "label_ar": "لوتس",
+        "label_en": "Lotus",
+        "url_name": "لوتس"
+    },
+    {
+        "id": 23586,
+        "label_ar": "ليب موتور",
+        "label_en": "Leapmotor",
+        "url_name": "ليب-موتور"
+    },
+    {
+        "id": 8107,
+        "label_ar": "ليفان",
+        "label_en": "Lifan",
+        "url_name": "ليفان"
+    },
+    {
+        "id": 2765,
+        "label_ar": "لينكولن",
+        "label_en": "Lincoln",
+        "url_name": "لينكولن"
+    },
+    {
+        "id": 8395,
+        "label_ar": "ماروتي سوزوكي",
+        "label_en": "Maruti Suzuki",
+        "url_name": "ماروتي-سوزوكي"
+    },
+    {
+        "id": 133,
+        "label_ar": "مازدا",
+        "label_en": "Mazda",
+        "url_name": "مازدا"
+    },
+    {
+        "id": 2767,
+        "label_ar": "مازيراتي",
+        "label_en": "Maserati",
+        "url_name": "مازيراتي"
+    },
+    {
+        "id": 22876,
+        "label_ar": "ماكسيوس",
+        "label_en": "Maxus",
+        "url_name": "ماكسيوس"
+    },
+    {
+        "id": 15805,
+        "label_ar": "ماهيندرا",
+        "label_en": "Mahindra",
+        "url_name": "ماهيندرا"
+    },
+    {
+        "id": 135,
+        "label_ar": "مرسيدس بنز",
+        "label_en": "Mercedes Benz",
+        "url_name": "مرسيدس-بنز"
+    },
+    {
+        "id": 6063,
+        "label_ar": "مكلارين",
+        "label_en": "McLaren",
+        "url_name": "مكلارين"
+    },
+    {
+        "id": 2769,
+        "label_ar": "مورغان",
+        "label_en": "Morgan",
+        "url_name": "مورغان"
+    },
+    {
+        "id": 137,
+        "label_ar": "ميتسوبيشي",
+        "label_en": "Mitsubishi",
+        "url_name": "ميتسوبيشي"
+    },
+    {
+        "id": 19757,
+        "label_ar": "ميتسوكا",
+        "label_en": "Mitsuoka",
+        "url_name": "ميتسوكا"
+    },
+    {
+        "id": 2771,
+        "label_ar": "ميركوري",
+        "label_en": "Mercury",
+        "url_name": "ميركوري"
+    },
+    {
+        "id": 2773,
+        "label_ar": "ميني",
+        "label_en": "MINI",
+        "url_name": "ميني"
+    },
+    {
+        "id": 22228,
+        "label_ar": "نيتا",
+        "label_en": "NETA",
+        "url_name": "نيتا"
+    },
+    {
+        "id": 139,
+        "label_ar": "نيسان",
+        "label_en": "Nissan",
+        "url_name": "نيسان"
+    },
+    {
+        "id": 23590,
+        "label_ar": "نيو",
+        "label_en": "Nio",
+        "url_name": "نيو"
+    },
+    {
+        "id": 14624,
+        "label_ar": "هافال",
+        "label_en": "Haval",
+        "url_name": "هافال"
+    },
+    {
+        "id": 15801,
+        "label_ar": "هافي",
+        "label_en": "Hafei",
+        "url_name": "هافي"
+    },
+    {
+        "id": 2775,
+        "label_ar": "هامر",
+        "label_en": "Hummer",
+        "url_name": "هامر"
+    },
+    {
+        "id": 19743,
+        "label_ar": "هاوتاي",
+        "label_en": "Hawtai",
+        "url_name": "هاوتاي"
+    },
+    {
+        "id": 22866,
+        "label_ar": "هايجر",
+        "label_en": "Higer",
+        "url_name": "هايجر"
+    },
+    {
+        "id": 23592,
+        "label_ar": "هايما",
+        "label_en": "Haima",
+        "url_name": "هايما"
+    },
+    {
+        "id": 21477,
+        "label_ar": "هونج تشي",
+        "label_en": "Hongqi",
+        "url_name": "هونج-تشي"
+    },
+    {
+        "id": 141,
+        "label_ar": "هوندا",
+        "label_en": "Honda",
+        "url_name": "هوندا"
+    },
+    {
+        "id": 12581,
+        "label_ar": "هونغهاي",
+        "label_en": "Hunaghai",
+        "url_name": "هونغهاي"
+    },
+    {
+        "id": 143,
+        "label_ar": "هيونداي",
+        "label_en": "Hyundai",
+        "url_name": "هيونداي"
+    },
+    {
+        "id": 23572,
+        "label_ar": "وولينغ",
+        "label_en": "Wuling",
+        "url_name": "وولينغ"
+    },
+    {
+        "id": 15791,
+        "label_ar": "يو أي زي",
+        "label_en": "UAZ",
+        "url_name": "يو-أي-زي"
+    },
+    {
+        "id": 4507,
+        "label_ar": "أخرى",
+        "label_en": "Other",
+        "url_name": "أخرى"
+    }
+]

@@ -1,0 +1,2256 @@
+{
+    "cat_ids": {
+        "label": "القسم",
+        "type": "single_select",
+        "values": [
+            {
+                "id": 1775,
+                "label_ar": "سيارات ومركبات",
+                "label_en": "Cars and Bikes",
+                "reporting_name": "Autos",
+                "url_name": "سيارات-ومركبات"
+            },
+            {
+                "id": 13177,
+                "label_ar": "دراجات نارية",
+                "label_en": "Motorcycles",
+                "reporting_name": "Motorcycles",
+                "url_name": "دراجات-نارية"
+            },
+            {
+                "id": 5505,
+                "label_ar": "موبايل - تابلت",
+                "label_en": "Mobile - Tablet",
+                "reporting_name": "MobileTablet",
+                "url_name": "موبايل-تابلت"
+            },
+            {
+                "id": 2143,
+                "label_ar": "العاب فيديو وملحقاتها",
+                "label_en": "Video Games & Consoles",
+                "reporting_name": "Gaming",
+                "url_name": "العاب-فيديو-وملحقاتها"
+            },
+            {
+                "id": 13741,
+                "label_ar": "لابتوب وكمبيوتر",
+                "label_en": "Computers & Laptops",
+                "reporting_name": "ComputerAndLaptops",
+                "url_name": "لابتوب-وكمبيوتر"
+            },
+            {
+                "id": 2131,
+                "label_ar": "الكترونيات",
+                "label_en": "Electronics",
+                "reporting_name": "Electronics",
+                "url_name": "اجهزة-الكترونيات"
+            },
+            {
+                "id": 7713,
+                "label_ar": "عقارات للبيع",
+                "label_en": "Real Estate for Sale",
+                "reporting_name": "RealEstateForSale",
+                "url_name": "عقارات-للبيع"
+            },
+            {
+                "id": 8035,
+                "label_ar": "عقارات للايجار",
+                "label_en": "Real Estate for Rent",
+                "reporting_name": "RealEstateForRent",
+                "url_name": "عقارات-للايجار"
+            },
+            {
+                "id": 2181,
+                "label_ar": "المنزل والحديقة",
+                "label_en": "Home & Garden",
+                "reporting_name": "HomeAndFurniture",
+                "url_name": "المنزل-والحديقة"
+            },
+            {
+                "id": 2155,
+                "label_ar": "ازياء - موضة نسائية",
+                "label_en": "Women's Fashion",
+                "reporting_name": "ClothingAndAccessories",
+                "url_name": "أزياء-نسائية"
+            },
+            {
+                "id": 7409,
+                "label_ar": "ازياء - موضة رجالي",
+                "label_en": "Men's Fashion",
+                "reporting_name": "MenFashion",
+                "url_name": "أزياء-رجالية"
+            },
+            {
+                "id": 5125,
+                "label_ar": "لوازم الأطفال و الألعاب",
+                "label_en": "Baby - Kids",
+                "reporting_name": "BabyKids",
+                "url_name": "لوازم-الأطفال-و-الألعاب"
+            },
+            {
+                "id": 7105,
+                "label_ar": "طعام - غذاء",
+                "label_en": "Food - Supplements",
+                "reporting_name": "Food",
+                "url_name": "طعام-غذاء"
+            },
+            {
+                "id": 11410,
+                "label_ar": "التعليم والتدريب",
+                "label_en": "Education & Training",
+                "reporting_name": "EducationAndTraining",
+                "url_name": "التعليم-والتدريب"
+            },
+            {
+                "id": 88,
+                "label_ar": "الخدمات",
+                "label_en": "Services",
+                "reporting_name": "Services",
+                "url_name": "الخدمات"
+            },
+            {
+                "id": 15981,
+                "label_ar": "وظائف",
+                "label_en": "Jobs",
+                "reporting_name": "JobsVertical",
+                "url_name": "وظائف"
+            },
+            {
+                "id": 4275,
+                "label_ar": "حيوانات للبيع",
+                "label_en": "Pets",
+                "reporting_name": "Animals",
+                "url_name": "حيوانات-للبيع"
+            },
+            {
+                "id": 15061,
+                "label_ar": "كتب وهوايات",
+                "label_en": "Books & Hobbies",
+                "reporting_name": "BooksHobbies",
+                "url_name": "كتب-وهوايات"
+            },
+            {
+                "id": 15101,
+                "label_ar": "رياضة ولياقة بدنية",
+                "label_en": "Sports & Fitness",
+                "reporting_name": "Sports",
+                "url_name": "رياضة-ولياقة-بدنية"
+            },
+            {
+                "id": 5141,
+                "label_ar": "شركات - معدات مهنية",
+                "label_en": "Business - Equipments",
+                "reporting_name": "BusinessIndustrial",
+                "url_name": "شركات-صناعية"
+            }
+        ],
+        "is_linkable": true
+    },
+    "sub_ids": {
+        "label": "القسم الفرعي",
+        "type": "single_select",
+        "values": [
+            {
+                "id": 1777,
+                "label_ar": "سيارات للبيع",
+                "label_en": "Cars For Sale",
+                "reporting_name": "CarsForSale",
+                "url_name": "سيارات-للبيع"
+            },
+            {
+                "id": 1779,
+                "label_ar": "سيارات للايجار",
+                "label_en": "Car Rental",
+                "reporting_name": "CarsForRent",
+                "url_name": "سيارات-للإيجار"
+            },
+            {
+                "id": 1783,
+                "label_ar": "ارقام سيارات مميزة للبيع",
+                "label_en": "Car Plates Number",
+                "reporting_name": "SpecialPlateNumbers",
+                "url_name": "ارقام-لوحات-سيارات"
+            },
+            {
+                "id": 12409,
+                "label_ar": "قطع غيار السيارات",
+                "label_en": "Car Spare Parts",
+                "reporting_name": "AutosSpareParts",
+                "url_name": "قطع-غيار-السيارات"
+            },
+            {
+                "id": 12369,
+                "label_ar": "إكسسوارات السيارات",
+                "label_en": "Car Accessories",
+                "reporting_name": "AutosAccessories",
+                "url_name": "إكسسوارات-السيارات"
+            },
+            {
+                "id": 1787,
+                "label_ar": "اطارات - جنطات",
+                "label_en": "Wheels and Rims",
+                "reporting_name": "RimsAndTyres",
+                "url_name": "جنوط-اطارات"
+            },
+            {
+                "id": 13097,
+                "label_ar": "شاحنات ومقطورات",
+                "label_en": "Trucks & Trailers",
+                "reporting_name": "TrucksTrailers",
+                "url_name": "شاحنات-ومقطورات"
+            },
+            {
+                "id": 13137,
+                "label_ar": "آليات ثقيلة",
+                "label_en": "Heavy Machinery",
+                "reporting_name": "HeavyMachinery",
+                "url_name": "آليات-ثقيلة"
+            },
+            {
+                "id": 1791,
+                "label_ar": "قوارب - جت سكي",
+                "label_en": "Boat, Yacht, and Jet Ski",
+                "reporting_name": "Boats",
+                "url_name": "قوارب-جت-سكي"
+            },
+            {
+                "id": 1793,
+                "label_ar": "سكراب - سيارات ومركبات أخرى",
+                "label_en": "Junk Cars - Other Vehicles",
+                "reporting_name": "OtherMotors",
+                "url_name": "سكراب-سيارات-ومركبات-أخرى"
+            }
+        ],
+        "is_linkable": true
+    },
+    "Brand": {
+        "label": "النوع",
+        "type": "values",
+        "values": [
+            {
+                "id": 24518,
+                "label_ar": "VGV",
+                "label_en": "VGV",
+                "url_name": "vgv"
+            },
+            {
+                "id": 22946,
+                "label_ar": "أبارث",
+                "label_en": "Abarath",
+                "url_name": "أبارث"
+            },
+            {
+                "id": 97,
+                "label_ar": "أوبل",
+                "label_en": "Opel",
+                "url_name": "أوبل"
+            },
+            {
+                "id": 2715,
+                "label_ar": "أودي",
+                "label_en": "Audi",
+                "url_name": "أودي"
+            },
+            {
+                "id": 2719,
+                "label_ar": "إنفينيتي",
+                "label_en": "Infiniti",
+                "url_name": "إنفينيتي"
+            },
+            {
+                "id": 2713,
+                "label_ar": "استون مارتن",
+                "label_en": "Aston Martin",
+                "url_name": "استون-مارتن"
+            },
+            {
+                "id": 6011,
+                "label_ar": "اكيورا",
+                "label_en": "Acura",
+                "url_name": "اكيورا"
+            },
+            {
+                "id": 2553,
+                "label_ar": "الفا روميو",
+                "label_en": "Alfa Romeo",
+                "url_name": "الفا-روميو"
+            },
+            {
+                "id": 5857,
+                "label_ar": "ام جي",
+                "label_en": "MG",
+                "url_name": "ام-جي"
+            },
+            {
+                "id": 24514,
+                "label_ar": "اومودا",
+                "label_en": "Omoda",
+                "url_name": "اومودا"
+            },
+            {
+                "id": 5941,
+                "label_ar": "ايران خودرو",
+                "label_en": "Iran Khodro",
+                "url_name": "ايران-خودرو"
+            },
+            {
+                "id": 2717,
+                "label_ar": "ايسوزو",
+                "label_en": "Isuzu",
+                "url_name": "ايسوزو"
+            },
+            {
+                "id": 13495,
+                "label_ar": "ايفيكو",
+                "label_en": "Iveco",
+                "url_name": "ايفيكو"
+            },
+            {
+                "id": 24508,
+                "label_ar": "اينوس",
+                "label_en": "Ineos",
+                "url_name": "اينوس"
+            },
+            {
+                "id": 6079,
+                "label_ar": "باجاني",
+                "label_en": "Pagani",
+                "url_name": "باجاني"
+            },
+            {
+                "id": 10958,
+                "label_ar": "بايك",
+                "label_en": "BAIC",
+                "url_name": "بايك"
+            },
+            {
+                "id": 9892,
+                "label_ar": "برايفت",
+                "label_en": "Private",
+                "url_name": "برايفت"
+            },
+            {
+                "id": 5867,
+                "label_ar": "بروتون",
+                "label_en": "Proton",
+                "url_name": "بروتون"
+            },
+            {
+                "id": 5877,
+                "label_ar": "بريليانس",
+                "label_en": "Brilliance",
+                "url_name": "بريليانس"
+            },
+            {
+                "id": 18275,
+                "label_ar": "بستيون",
+                "label_en": "Bestune",
+                "url_name": "بستيون"
+            },
+            {
+                "id": 2721,
+                "label_ar": "بنتلي",
+                "label_en": "Bentley",
+                "url_name": "بنتلي"
+            },
+            {
+                "id": 13494,
+                "label_ar": "بورجوارد",
+                "label_en": "Borgward",
+                "url_name": "بورجوارد"
+            },
+            {
+                "id": 2723,
+                "label_ar": "بورش",
+                "label_en": "Porsche",
+                "url_name": "بورش"
+            },
+            {
+                "id": 5971,
+                "label_ar": "بوغاتي",
+                "label_en": "Bugatti",
+                "url_name": "بوغاتي"
+            },
+            {
+                "id": 22872,
+                "label_ar": "بولستار",
+                "label_en": "Polestar",
+                "url_name": "بولستار"
+            },
+            {
+                "id": 2725,
+                "label_ar": "بونتياك",
+                "label_en": "Pontiac",
+                "url_name": "بونتياك"
+            },
+            {
+                "id": 5985,
+                "label_ar": "بويك",
+                "label_en": "Buick",
+                "url_name": "بويك"
+            },
+            {
+                "id": 99,
+                "label_ar": "بي ام دبليو",
+                "label_en": "BMW",
+                "url_name": "بي-ام-دبليو"
+            },
+            {
+                "id": 5895,
+                "label_ar": "بي واي دي",
+                "label_en": "BYD",
+                "url_name": "بي-واي-دي"
+            },
+            {
+                "id": 101,
+                "label_ar": "بيجو",
+                "label_en": "Peugeot",
+                "url_name": "بيجو"
+            },
+            {
+                "id": 5947,
+                "label_ar": "تاتا",
+                "label_en": "TATA",
+                "url_name": "تاتا"
+            },
+            {
+                "id": 24510,
+                "label_ar": "تانك",
+                "label_en": "Tank",
+                "url_name": "تانك"
+            },
+            {
+                "id": 103,
+                "label_ar": "تويوتا",
+                "label_en": "Toyota",
+                "url_name": "تويوتا"
+            },
+            {
+                "id": 5931,
+                "label_ar": "تيسلا",
+                "label_en": "Tesla",
+                "url_name": "تيسلا"
+            },
+            {
+                "id": 8056,
+                "label_ar": "جاك",
+                "label_en": "Jac",
+                "url_name": "جاك"
+            },
+            {
+                "id": 2727,
+                "label_ar": "جاكوار",
+                "label_en": "Jaguar",
+                "url_name": "جاكوار"
+            },
+            {
+                "id": 23588,
+                "label_ar": "جاي ام اي في",
+                "label_en": "JMEV",
+                "url_name": "جاي-ام-اي-في"
+            },
+            {
+                "id": 22230,
+                "label_ar": "جاي ام سي",
+                "label_en": "JMC",
+                "url_name": "جاي-ام-سي"
+            },
+            {
+                "id": 2729,
+                "label_ar": "جريت وول",
+                "label_en": "Great Wall",
+                "url_name": "جريت-وول"
+            },
+            {
+                "id": 16705,
+                "label_ar": "جي أيه سي",
+                "label_en": "GAC",
+                "url_name": "جي-أيه-سي"
+            },
+            {
+                "id": 2731,
+                "label_ar": "جي إم سي",
+                "label_en": "GMC",
+                "url_name": "جي-إم-سي"
+            },
+            {
+                "id": 105,
+                "label_ar": "جيب",
+                "label_en": "Jeep",
+                "url_name": "جيب"
+            },
+            {
+                "id": 17534,
+                "label_ar": "جيتور",
+                "label_en": "Jetour",
+                "url_name": "جيتور"
+            },
+            {
+                "id": 5821,
+                "label_ar": "جيلي",
+                "label_en": "Geely",
+                "url_name": "جيلي"
+            },
+            {
+                "id": 22870,
+                "label_ar": "جينبي",
+                "label_en": "Jinbei",
+                "url_name": "جينبي"
+            },
+            {
+                "id": 107,
+                "label_ar": "دايهاتسو",
+                "label_en": "Daihatsu",
+                "url_name": "دايهاتسو"
+            },
+            {
+                "id": 109,
+                "label_ar": "دايو",
+                "label_en": "Daewoo",
+                "url_name": "دايو"
+            },
+            {
+                "id": 22874,
+                "label_ar": "دايون",
+                "label_en": "Dayun",
+                "url_name": "دايون"
+            },
+            {
+                "id": 2733,
+                "label_ar": "دودج",
+                "label_en": "Dodge",
+                "url_name": "دودج"
+            },
+            {
+                "id": 22868,
+                "label_ar": "دورسن",
+                "label_en": "Dorcen",
+                "url_name": "دورسن"
+            },
+            {
+                "id": 19733,
+                "label_ar": "دونج فينج",
+                "label_en": "Dongfeng",
+                "url_name": "دونج-فينج"
+            },
+            {
+                "id": 13226,
+                "label_ar": "دي اف ام",
+                "label_en": "DFM",
+                "url_name": "دي-اف-ام"
+            },
+            {
+                "id": 2735,
+                "label_ar": "روفر",
+                "label_en": "Rover",
+                "url_name": "روفر"
+            },
+            {
+                "id": 2737,
+                "label_ar": "رولز رویس",
+                "label_en": "Rolls Royce",
+                "url_name": "رولز-رویس"
+            },
+            {
+                "id": 111,
+                "label_ar": "رينو",
+                "label_en": "Renault",
+                "url_name": "رينو"
+            },
+            {
+                "id": 5849,
+                "label_ar": "زد إكس أوتو",
+                "label_en": "ZXAUTO",
+                "url_name": "زد-إكس-أوتو"
+            },
+            {
+                "id": 16727,
+                "label_ar": "زوتي",
+                "label_en": "Zotye",
+                "url_name": "سيارات-زوتي"
+            },
+            {
+                "id": 2739,
+                "label_ar": "ساب",
+                "label_en": "Saab",
+                "url_name": "ساب"
+            },
+            {
+                "id": 2741,
+                "label_ar": "ساتورن",
+                "label_en": "Saturn",
+                "url_name": "ساتورن"
+            },
+            {
+                "id": 5915,
+                "label_ar": "سامسونج",
+                "label_en": "Samsung",
+                "url_name": "سامسونج"
+            },
+            {
+                "id": 2743,
+                "label_ar": "سانغ يونغ",
+                "label_en": "SsangYong",
+                "url_name": "سانغ-يونغ"
+            },
+            {
+                "id": 15793,
+                "label_ar": "ساوايست ‬ ‫",
+                "label_en": "Soueast",
+                "url_name": "ساوايست"
+            },
+            {
+                "id": 8397,
+                "label_ar": "سايبا",
+                "label_en": "SAIPA",
+                "url_name": "سايبا"
+            },
+            {
+                "id": 15803,
+                "label_ar": "سايك",
+                "label_en": "Saic",
+                "url_name": "سايك"
+            },
+            {
+                "id": 24512,
+                "label_ar": "سبايكر",
+                "label_en": "Spyker",
+                "url_name": "سبايكر"
+            },
+            {
+                "id": 2745,
+                "label_ar": "ستيروين",
+                "label_en": "Citroen",
+                "url_name": "ستيروين"
+            },
+            {
+                "id": 18277,
+                "label_ar": "سكاي ويل",
+                "label_en": "Skywell",
+                "url_name": "سكاي-ويل"
+            },
+            {
+                "id": 115,
+                "label_ar": "سكودا",
+                "label_en": "Skoda",
+                "url_name": "سكودا"
+            },
+            {
+                "id": 16695,
+                "label_ar": "سمارت",
+                "label_en": "Smart",
+                "url_name": "نوع-سمارت"
+            },
+            {
+                "id": 2747,
+                "label_ar": "سوبارو",
+                "label_en": "Subaru",
+                "url_name": "سوبارو"
+            },
+            {
+                "id": 117,
+                "label_ar": "سوزوكي",
+                "label_en": "Suzuki",
+                "url_name": "سوزوكي"
+            },
+            {
+                "id": 15795,
+                "label_ar": "سي إم سي",
+                "label_en": "CMC",
+                "url_name": "سي-إم-سي"
+            },
+            {
+                "id": 119,
+                "label_ar": "سيات",
+                "label_en": "SEAT",
+                "url_name": "سيات"
+            },
+            {
+                "id": 6043,
+                "label_ar": "سيون",
+                "label_en": "Scion",
+                "url_name": "سيون"
+            },
+            {
+                "id": 12579,
+                "label_ar": "شانجان",
+                "label_en": "Changan",
+                "url_name": "شانجان"
+            },
+            {
+                "id": 113,
+                "label_ar": "شيري",
+                "label_en": "Chery",
+                "url_name": "شيري"
+            },
+            {
+                "id": 121,
+                "label_ar": "شيفروليه",
+                "label_en": "Chevrolet",
+                "url_name": "شيفروليه"
+            },
+            {
+                "id": 8391,
+                "label_ar": "فاو",
+                "label_en": "FAW",
+                "url_name": "فاو"
+            },
+            {
+                "id": 8393,
+                "label_ar": "فوتون",
+                "label_en": "Foton",
+                "url_name": "فوتون"
+            },
+            {
+                "id": 123,
+                "label_ar": "فورد",
+                "label_en": "Ford",
+                "url_name": "فورد"
+            },
+            {
+                "id": 15797,
+                "label_ar": "فورس",
+                "label_en": "Force",
+                "url_name": "فورس"
+            },
+            {
+                "id": 2749,
+                "label_ar": "فولفو",
+                "label_en": "Volvo",
+                "url_name": "فولفو"
+            },
+            {
+                "id": 125,
+                "label_ar": "فولكسفاغن",
+                "label_en": "Volkswagen",
+                "url_name": "فولكسفاغن"
+            },
+            {
+                "id": 127,
+                "label_ar": "فيات",
+                "label_en": "Fiat",
+                "url_name": "فيات"
+            },
+            {
+                "id": 2751,
+                "label_ar": "فيراري",
+                "label_en": "Ferrari",
+                "url_name": "فيراري"
+            },
+            {
+                "id": 15799,
+                "label_ar": "فيسكر",
+                "label_en": "Fisker",
+                "url_name": "فيسكر"
+            },
+            {
+                "id": 24504,
+                "label_ar": "كاتر هام",
+                "label_en": "Caterham",
+                "url_name": "كاتر-هام"
+            },
+            {
+                "id": 2753,
+                "label_ar": "كاديلاك",
+                "label_en": "Cadillac",
+                "url_name": "كاديلاك"
+            },
+            {
+                "id": 21591,
+                "label_ar": "كاي يي",
+                "label_en": "Kaiyi",
+                "url_name": "كاي-يي"
+            },
+            {
+                "id": 2755,
+                "label_ar": "كرايسلر",
+                "label_en": "Chrysler",
+                "url_name": "كرايسلر"
+            },
+            {
+                "id": 24516,
+                "label_ar": "كوينيجسيج",
+                "label_en": "Koenigsegg",
+                "url_name": "كوينيجسيج"
+            },
+            {
+                "id": 129,
+                "label_ar": "كيا",
+                "label_en": "Kia",
+                "url_name": "كيا"
+            },
+            {
+                "id": 24506,
+                "label_ar": "كينج لونج",
+                "label_en": "King Long",
+                "url_name": "كينج-لونج"
+            },
+            {
+                "id": 131,
+                "label_ar": "لادا",
+                "label_en": "Lada",
+                "url_name": "لادا"
+            },
+            {
+                "id": 2757,
+                "label_ar": "لامبورغيني",
+                "label_en": "Lamborghini",
+                "url_name": "لامبورغيني"
+            },
+            {
+                "id": 2759,
+                "label_ar": "لاند روفر",
+                "label_en": "Land Rover",
+                "url_name": "لاند-روفر"
+            },
+            {
+                "id": 6087,
+                "label_ar": "لانسيا",
+                "label_en": "Lancia",
+                "url_name": "لانسيا"
+            },
+            {
+                "id": 2761,
+                "label_ar": "لكزس",
+                "label_en": "Lexus",
+                "url_name": "لكزس"
+            },
+            {
+                "id": 2763,
+                "label_ar": "لوتس",
+                "label_en": "Lotus",
+                "url_name": "لوتس"
+            },
+            {
+                "id": 23586,
+                "label_ar": "ليب موتور",
+                "label_en": "Leapmotor",
+                "url_name": "ليب-موتور"
+            },
+            {
+                "id": 8107,
+                "label_ar": "ليفان",
+                "label_en": "Lifan",
+                "url_name": "ليفان"
+            },
+            {
+                "id": 2765,
+                "label_ar": "لينكولن",
+                "label_en": "Lincoln",
+                "url_name": "لينكولن"
+            },
+            {
+                "id": 8395,
+                "label_ar": "ماروتي سوزوكي",
+                "label_en": "Maruti Suzuki",
+                "url_name": "ماروتي-سوزوكي"
+            },
+            {
+                "id": 133,
+                "label_ar": "مازدا",
+                "label_en": "Mazda",
+                "url_name": "مازدا"
+            },
+            {
+                "id": 2767,
+                "label_ar": "مازيراتي",
+                "label_en": "Maserati",
+                "url_name": "مازيراتي"
+            },
+            {
+                "id": 22876,
+                "label_ar": "ماكسيوس",
+                "label_en": "Maxus",
+                "url_name": "ماكسيوس"
+            },
+            {
+                "id": 15805,
+                "label_ar": "ماهيندرا",
+                "label_en": "Mahindra",
+                "url_name": "ماهيندرا"
+            },
+            {
+                "id": 135,
+                "label_ar": "مرسيدس بنز",
+                "label_en": "Mercedes Benz",
+                "url_name": "مرسيدس-بنز"
+            },
+            {
+                "id": 6063,
+                "label_ar": "مكلارين",
+                "label_en": "McLaren",
+                "url_name": "مكلارين"
+            },
+            {
+                "id": 2769,
+                "label_ar": "مورغان",
+                "label_en": "Morgan",
+                "url_name": "مورغان"
+            },
+            {
+                "id": 137,
+                "label_ar": "ميتسوبيشي",
+                "label_en": "Mitsubishi",
+                "url_name": "ميتسوبيشي"
+            },
+            {
+                "id": 19757,
+                "label_ar": "ميتسوكا",
+                "label_en": "Mitsuoka",
+                "url_name": "ميتسوكا"
+            },
+            {
+                "id": 2771,
+                "label_ar": "ميركوري",
+                "label_en": "Mercury",
+                "url_name": "ميركوري"
+            },
+            {
+                "id": 2773,
+                "label_ar": "ميني",
+                "label_en": "MINI",
+                "url_name": "ميني"
+            },
+            {
+                "id": 22228,
+                "label_ar": "نيتا",
+                "label_en": "NETA",
+                "url_name": "نيتا"
+            },
+            {
+                "id": 139,
+                "label_ar": "نيسان",
+                "label_en": "Nissan",
+                "url_name": "نيسان"
+            },
+            {
+                "id": 23590,
+                "label_ar": "نيو",
+                "label_en": "Nio",
+                "url_name": "نيو"
+            },
+            {
+                "id": 14624,
+                "label_ar": "هافال",
+                "label_en": "Haval",
+                "url_name": "هافال"
+            },
+            {
+                "id": 15801,
+                "label_ar": "هافي",
+                "label_en": "Hafei",
+                "url_name": "هافي"
+            },
+            {
+                "id": 2775,
+                "label_ar": "هامر",
+                "label_en": "Hummer",
+                "url_name": "هامر"
+            },
+            {
+                "id": 19743,
+                "label_ar": "هاوتاي",
+                "label_en": "Hawtai",
+                "url_name": "هاوتاي"
+            },
+            {
+                "id": 22866,
+                "label_ar": "هايجر",
+                "label_en": "Higer",
+                "url_name": "هايجر"
+            },
+            {
+                "id": 23592,
+                "label_ar": "هايما",
+                "label_en": "Haima",
+                "url_name": "هايما"
+            },
+            {
+                "id": 21477,
+                "label_ar": "هونج تشي",
+                "label_en": "Hongqi",
+                "url_name": "هونج-تشي"
+            },
+            {
+                "id": 141,
+                "label_ar": "هوندا",
+                "label_en": "Honda",
+                "url_name": "هوندا"
+            },
+            {
+                "id": 12581,
+                "label_ar": "هونغهاي",
+                "label_en": "Hunaghai",
+                "url_name": "هونغهاي"
+            },
+            {
+                "id": 143,
+                "label_ar": "هيونداي",
+                "label_en": "Hyundai",
+                "url_name": "هيونداي"
+            },
+            {
+                "id": 23572,
+                "label_ar": "وولينغ",
+                "label_en": "Wuling",
+                "url_name": "وولينغ"
+            },
+            {
+                "id": 15791,
+                "label_ar": "يو أي زي",
+                "label_en": "UAZ",
+                "url_name": "يو-أي-زي"
+            },
+            {
+                "id": 4507,
+                "label_ar": "أخرى",
+                "label_en": "Other",
+                "url_name": "أخرى"
+            }
+        ],
+        "is_linkable": true
+    },
+    "Brand_child": {
+        "label": "الفئة",
+        "type": "values",
+        "values": [],
+        "parent": "Brand",
+        "is_linkable": true
+    },
+    "Car_Year": {
+        "label": "سنة الصنع",
+        "type": "range",
+        "range": [
+            1970,
+            2024
+        ],
+        "from_null_label": "أقدم من 1970",
+        "is_linkable": true,
+        "values": []
+    },
+    "Cars_body_types": {
+        "label": "نوع الهيكل",
+        "type": "values",
+        "values": [
+            {
+                "id": 7692,
+                "label_ar": "صالون / سيدان",
+                "label_en": "Sedan"
+            },
+            {
+                "id": 7698,
+                "label_ar": "كوبيه",
+                "label_en": "Coupe"
+            },
+            {
+                "id": 7700,
+                "label_ar": "كشف",
+                "label_en": "Convertible"
+            },
+            {
+                "id": 7694,
+                "label_ar": "اس يو في",
+                "label_en": "SUV"
+            },
+            {
+                "id": 7696,
+                "label_ar": "هاتشباك",
+                "label_en": "HatchBack"
+            },
+            {
+                "id": 7702,
+                "label_ar": "باص / فان",
+                "label_en": "Bus - Van"
+            },
+            {
+                "id": 7704,
+                "label_ar": "بيك اب",
+                "label_en": "PickUp"
+            },
+            {
+                "id": 7706,
+                "label_ar": "شاحنة",
+                "label_en": "Truck"
+            }
+        ]
+    },
+    "regional_specs": {
+        "label": "مواصفات إقليمية",
+        "type": "values",
+        "values": [
+            {
+                "id": 18371,
+                "label_ar": "مواصفات خليجية",
+                "label_en": "GCC Specs",
+                "url_name": "مواصفات-خليجية"
+            },
+            {
+                "id": 18373,
+                "label_ar": "مواصفات يابانية",
+                "label_en": "Japanese Specs",
+                "url_name": "مواصفات-يابانية"
+            },
+            {
+                "id": 18375,
+                "label_ar": "مواصفات أمريكية",
+                "label_en": "American Specs",
+                "url_name": "مواصفات-امريكية"
+            },
+            {
+                "id": 18377,
+                "label_ar": "مواصفات أوروبية",
+                "label_en": "European Specs",
+                "url_name": "مواصفات-اوروبية"
+            },
+            {
+                "id": 18379,
+                "label_ar": "مواصفات أخرى",
+                "label_en": "Other Specs",
+                "url_name": "مواصفات-اخرى"
+            }
+        ]
+    },
+    "Tramsmission_Cars": {
+        "label": "نوع ناقل الحركة",
+        "type": "values",
+        "values": [
+            {
+                "id": 4795,
+                "label_ar": "اوتوماتيك",
+                "label_en": "Automatic",
+                "url_name": "اوتوماتيك"
+            },
+            {
+                "id": 4797,
+                "label_ar": "يدوي/عادي",
+                "label_en": "Manual",
+                "url_name": "يدوي-عادي"
+            }
+        ]
+    },
+    "Fuel_Cars": {
+        "label": "نوع الوقود",
+        "type": "values",
+        "values": [
+            {
+                "id": 4697,
+                "label_ar": "بنزين",
+                "label_en": "Gasoline",
+                "url_name": "بنزين"
+            },
+            {
+                "id": 4699,
+                "label_ar": "ديزل",
+                "label_en": "Diesel",
+                "url_name": "ديزل"
+            },
+            {
+                "id": 4701,
+                "label_ar": "هايبرد",
+                "label_en": "Hybrid",
+                "url_name": "هايبرد"
+            },
+            {
+                "id": 19709,
+                "label_ar": "مايلد هايبرد",
+                "label_en": "Mild Hybrid",
+                "url_name": "مايلد-هايبرد"
+            },
+            {
+                "id": 4703,
+                "label_ar": "كهربائي",
+                "label_en": "Electric",
+                "url_name": "كهربائي"
+            },
+            {
+                "id": 15272,
+                "label_ar": "هايبرد - Plug-in",
+                "label_en": "Plug-in - Hybrid",
+                "url_name": "هايبرد-plug-in"
+            }
+        ]
+    },
+    "Car_Color": {
+        "label": "اللون",
+        "type": "values",
+        "values": [
+            {
+                "id": 7341,
+                "label_ar": "أبيض",
+                "label_en": "White",
+                "url_name": "أبيض"
+            },
+            {
+                "id": 7317,
+                "label_ar": "أسود",
+                "label_en": "Black",
+                "url_name": "أسود"
+            },
+            {
+                "id": 7337,
+                "label_ar": "فضي",
+                "label_en": "Silver",
+                "url_name": "فضي"
+            },
+            {
+                "id": 7325,
+                "label_ar": "رمادي",
+                "label_en": "Grey",
+                "url_name": "رمادي"
+            },
+            {
+                "id": 23002,
+                "label_ar": "أسمنتي",
+                "label_en": "Nardo Grey",
+                "url_name": "أسمنتي"
+            },
+            {
+                "id": 7335,
+                "label_ar": "أحمر",
+                "label_en": "Red",
+                "url_name": "أحمر"
+            },
+            {
+                "id": 7327,
+                "label_ar": "خمري",
+                "label_en": "Burgundy",
+                "url_name": "خمري"
+            },
+            {
+                "id": 7343,
+                "label_ar": "أصفر",
+                "label_en": "Yellow",
+                "url_name": "أصفر"
+            },
+            {
+                "id": 7329,
+                "label_ar": "برتقالي",
+                "label_en": "Orange",
+                "url_name": "برتقالي"
+            },
+            {
+                "id": 7507,
+                "label_ar": "ذهبي",
+                "label_en": "Gold",
+                "url_name": "ذهبي"
+            },
+            {
+                "id": 23004,
+                "label_ar": "برونزي",
+                "label_en": "Bronze",
+                "url_name": "برونزي"
+            },
+            {
+                "id": 7321,
+                "label_ar": "بني",
+                "label_en": "Brown",
+                "url_name": "بني"
+            },
+            {
+                "id": 7315,
+                "label_ar": "بيج",
+                "label_en": "Beige",
+                "url_name": "بيج"
+            },
+            {
+                "id": 7319,
+                "label_ar": "أزرق",
+                "label_en": "Blue",
+                "url_name": "أزرق"
+            },
+            {
+                "id": 23006,
+                "label_ar": "كحلي",
+                "label_en": "Navy Blue",
+                "url_name": "كحلي"
+            },
+            {
+                "id": 23008,
+                "label_ar": "أزرق فاتح",
+                "label_en": "Baby Blue",
+                "url_name": "أزرق-فاتح"
+            },
+            {
+                "id": 7323,
+                "label_ar": "أخضر",
+                "label_en": "Green",
+                "url_name": "أخضر"
+            },
+            {
+                "id": 23010,
+                "label_ar": "زيتي",
+                "label_en": "Olive Green",
+                "url_name": "زيتي"
+            },
+            {
+                "id": 7339,
+                "label_ar": "تركواز",
+                "label_en": "Turquoise",
+                "url_name": "تركواز"
+            },
+            {
+                "id": 23012,
+                "label_ar": "بترولي",
+                "label_en": "Petrol",
+                "url_name": "بترولي"
+            },
+            {
+                "id": 7333,
+                "label_ar": "بنفسجي",
+                "label_en": "Purple",
+                "url_name": "بنفسجي"
+            },
+            {
+                "id": 7331,
+                "label_ar": "زهري",
+                "label_en": "Pink",
+                "url_name": "زهري"
+            }
+        ]
+    },
+    "Interior_Options": {
+        "label": "مواصفات داخلية",
+        "type": "values",
+        "values": [
+            {
+                "id": 12541,
+                "label_ar": "مكيف",
+                "label_en": "Air Condition"
+            },
+            {
+                "id": 12561,
+                "label_ar": "فرامل ABS",
+                "label_en": "ABS Brakes"
+            },
+            {
+                "id": 21565,
+                "label_ar": "زجاج كهربائي",
+                "label_en": "Electric Windows"
+            },
+            {
+                "id": 21561,
+                "label_ar": "مقاعد مبردة",
+                "label_en": "Cooled Seats"
+            },
+            {
+                "id": 12549,
+                "label_ar": "كراسي مدفأة",
+                "label_en": "Heated Seats"
+            },
+            {
+                "id": 12537,
+                "label_ar": "مثبت سرعة",
+                "label_en": "Cruise Control"
+            },
+            {
+                "id": 21571,
+                "label_ar": "مقاعد رياضية",
+                "label_en": "Sport Seats"
+            },
+            {
+                "id": 21589,
+                "label_ar": "حساس ضغط الاطارات",
+                "label_en": "Tyre Pressure Monitoring"
+            },
+            {
+                "id": 12545,
+                "label_ar": "مساعد الاصطفاف",
+                "label_en": "Park assist"
+            },
+            {
+                "id": 12547,
+                "label_ar": "مقاعد جلد",
+                "label_en": "Leather Seats"
+            },
+            {
+                "id": 23014,
+                "label_ar": "تحكم مقاعد كهرباء",
+                "label_en": "Electric Seat Control"
+            },
+            {
+                "id": 23016,
+                "label_ar": "ذاكرة مقاعد",
+                "label_en": "Memory Seats"
+            },
+            {
+                "id": 21567,
+                "label_ar": "أوامر صوتية",
+                "label_en": "Voice Control"
+            },
+            {
+                "id": 21573,
+                "label_ar": "كاميرا 360°",
+                "label_en": "360° Camera"
+            },
+            {
+                "id": 23018,
+                "label_ar": "تشغيل عن بعد",
+                "label_en": "Remote Start"
+            },
+            {
+                "id": 12543,
+                "label_ar": "كاميرا خلفية",
+                "label_en": "Rear Camera"
+            },
+            {
+                "id": 21587,
+                "label_ar": "مانع انزلاق",
+                "label_en": "Traction Control"
+            },
+            {
+                "id": 23020,
+                "label_ar": "تحكم مقود",
+                "label_en": "Steering Wheel Controls"
+            },
+            {
+                "id": 21569,
+                "label_ar": "مقود مدفأ",
+                "label_en": "Heated Steering Wheel"
+            },
+            {
+                "id": 21563,
+                "label_ar": "مقعد خلفي كهربائي",
+                "label_en": "Electric rear seat"
+            },
+            {
+                "id": 21577,
+                "label_ar": "رادار",
+                "label_en": "Radar"
+            },
+            {
+                "id": 21557,
+                "label_ar": "أبل كار بلاي",
+                "label_en": "Apple CarPlay"
+            },
+            {
+                "id": 21585,
+                "label_ar": "نظام تعليق رياضي",
+                "label_en": "Sport Suspension"
+            },
+            {
+                "id": 21555,
+                "label_ar": "أندرويد أوتو",
+                "label_en": "Android Auto"
+            },
+            {
+                "id": 12559,
+                "label_ar": "بلوتوث",
+                "label_en": "Bluetooth"
+            },
+            {
+                "id": 23022,
+                "label_ar": "شاشة وسائط",
+                "label_en": "Media Screen"
+            },
+            {
+                "id": 12533,
+                "label_ar": "شاشة لمس",
+                "label_en": "Touch Screen"
+            },
+            {
+                "id": 12557,
+                "label_ar": " AUX / USB مدخل",
+                "label_en": "AUX / USB Input"
+            },
+            {
+                "id": 21559,
+                "label_ar": "مشغل اسطوانات CD",
+                "label_en": "CD player"
+            },
+            {
+                "id": 12535,
+                "label_ar": "نظام ملاحة / خرائط",
+                "label_en": "Navigation system / maps"
+            },
+            {
+                "id": 12551,
+                "label_ar": "أكياس هوائية",
+                "label_en": "Airbags"
+            },
+            {
+                "id": 12563,
+                "label_ar": "سنترلوك",
+                "label_en": "Center Lock"
+            },
+            {
+                "id": 21553,
+                "label_ar": "نظام إنذار",
+                "label_en": "Alarm System"
+            },
+            {
+                "id": 23024,
+                "label_ar": "تنبيه النقاط العمياء",
+                "label_en": "Blind Spot Alert"
+            },
+            {
+                "id": 23026,
+                "label_ar": "تنبيه مغادرة المسار",
+                "label_en": "Lane Departure Alert"
+            },
+            {
+                "id": 23028,
+                "label_ar": "تنبيه الاصطدام الامامي",
+                "label_en": "Forward Collision Alert"
+            },
+            {
+                "id": 23030,
+                "label_ar": "دفلوك",
+                "label_en": "Diff Lock"
+            },
+            {
+                "id": 23032,
+                "label_ar": "قفل الباب تلقائي",
+                "label_en": "Auto Lock System"
+            }
+        ]
+    },
+    "Exterior_Options": {
+        "label": "مواصفات خارجية",
+        "type": "values",
+        "values": [
+            {
+                "id": 21575,
+                "label_ar": "جنوط",
+                "label_en": "Rim Wheels"
+            },
+            {
+                "id": 21581,
+                "label_ar": "إطار احتياطي",
+                "label_en": "Spare Tyre"
+            },
+            {
+                "id": 23034,
+                "label_ar": "أنوار نهارية",
+                "label_en": "Daytime Running Lights"
+            },
+            {
+                "id": 12553,
+                "label_ar": "مصابيح ليد",
+                "label_en": "LED Lights"
+            },
+            {
+                "id": 12539,
+                "label_ar": "دخول بدون مفتاح",
+                "label_en": "Keyless Entry"
+            },
+            {
+                "id": 12555,
+                "label_ar": "مصابيح زينون",
+                "label_en": "Xenon Lights"
+            },
+            {
+                "id": 21579,
+                "label_ar": "فتحة بانوراما",
+                "label_en": "Panoramic Roof"
+            },
+            {
+                "id": 12529,
+                "label_ar": "فتحة",
+                "label_en": "Sunroof"
+            },
+            {
+                "id": 21583,
+                "label_ar": "نسخة رياضية",
+                "label_en": "Sports Package"
+            },
+            {
+                "id": 23036,
+                "label_ar": "حساسات خلفية",
+                "label_en": "Rear Sensors"
+            },
+            {
+                "id": 23038,
+                "label_ar": "حساسات أمامية",
+                "label_en": "Front Sensors"
+            },
+            {
+                "id": 23040,
+                "label_ar": "هوك خلفي",
+                "label_en": "Back Hook"
+            },
+            {
+                "id": 12531,
+                "label_ar": "مرايا كهربائية",
+                "label_en": "Electric Mirrors"
+            },
+            {
+                "id": 23042,
+                "label_ar": "مرايا قابلة للطي كهربائيا",
+                "label_en": "Electrically Folding Mirrors"
+            }
+        ]
+    },
+    "ConditionUsed": {
+        "label": "الحالة",
+        "type": "values",
+        "values": [
+            {
+                "id": 4643,
+                "label_ar": "مستعمل",
+                "label_en": "Used",
+                "url_name": "مستعمل"
+            },
+            {
+                "id": 4641,
+                "label_ar": "جديد",
+                "label_en": "New",
+                "url_name": "جديد"
+            }
+        ]
+    },
+    "Kilometers_Cars": {
+        "label": "الكيلومترات",
+        "type": "values",
+        "values": [
+            {
+                "id": 7364,
+                "label_ar": "٠",
+                "label_en": "0",
+                "url_name": "٠"
+            },
+            {
+                "id": 19889,
+                "label_ar": "١ - ٩٩٩",
+                "label_en": "1 - 999"
+            },
+            {
+                "id": 4599,
+                "label_ar": "١,٠٠٠ - ٩,٩٩٩",
+                "label_en": "1,000 - 9,999",
+                "url_name": "١-٠٠٠-٩-٩٩٩"
+            },
+            {
+                "id": 4601,
+                "label_ar": "١٠,٠٠٠ - ١٩,٩٩٩",
+                "label_en": "10,000 - 19,999",
+                "url_name": "١٠-٠٠٠-١٩-٩٩٩"
+            },
+            {
+                "id": 4603,
+                "label_ar": "٢٠,٠٠٠ - ٢٩,٩٩٩",
+                "label_en": "20,000 - 29,999",
+                "url_name": "٢٠-٠٠٠-٢٩-٩٩٩"
+            },
+            {
+                "id": 4605,
+                "label_ar": "٣٠,٠٠٠ - ٣٩,٩٩٩",
+                "label_en": "30,000 - 39,999",
+                "url_name": "٣٠-٠٠٠-٣٩-٩٩٩"
+            },
+            {
+                "id": 4607,
+                "label_ar": "٤٠,٠٠٠ - ٤٩,٩٩٩",
+                "label_en": "40,000 - 49,999",
+                "url_name": "٤٠-٠٠٠-٤٩-٩٩٩"
+            },
+            {
+                "id": 4609,
+                "label_ar": "٥٠,٠٠٠ - ٥٩,٩٩٩",
+                "label_en": "50,000 - 59,999",
+                "url_name": "٥٠-٠٠٠-٥٩-٩٩٩"
+            },
+            {
+                "id": 4611,
+                "label_ar": "٦٠,٠٠٠ - ٦٩,٩٩٩",
+                "label_en": "60,000 - 69,999",
+                "url_name": "٦٠-٠٠٠-٦٩-٩٩٩"
+            },
+            {
+                "id": 4613,
+                "label_ar": "٧٠,٠٠٠ - ٧٩,٩٩٩",
+                "label_en": "70,000 - 79,999",
+                "url_name": "٧٠-٠٠٠-٧٩-٩٩٩"
+            },
+            {
+                "id": 4615,
+                "label_ar": "٨٠,٠٠٠ - ٨٩,٩٩٩",
+                "label_en": "80,000 - 89,999",
+                "url_name": "٨٠-٠٠٠-٨٩-٩٩٩"
+            },
+            {
+                "id": 4617,
+                "label_ar": "٩٠,٠٠٠ - ٩٩,٩٩٩",
+                "label_en": "90,000 - 99,999",
+                "url_name": "٩٠-٠٠٠-٩٩-٩٩٩"
+            },
+            {
+                "id": 4619,
+                "label_ar": "١٠٠,٠٠٠ - ١٠٩,٩٩٩",
+                "label_en": "100,000 - 109,999",
+                "url_name": "١٠٠-٠٠٠-١٠٩-٩٩٩"
+            },
+            {
+                "id": 4621,
+                "label_ar": "١١٠,٠٠٠ - ١١٩,٩٩٩",
+                "label_en": "110,000 - 119,999",
+                "url_name": "١١٠-٠٠٠-١١٩-٩٩٩"
+            },
+            {
+                "id": 4623,
+                "label_ar": "١٢٠,٠٠٠ - ١٢٩,٩٩٩",
+                "label_en": "120,000 - 129,999",
+                "url_name": "١٢٠-٠٠٠-١٢٩-٩٩٩"
+            },
+            {
+                "id": 4625,
+                "label_ar": "١٣٠,٠٠٠ - ١٣٩,٩٩٩",
+                "label_en": "130,000 - 139,999",
+                "url_name": "١٣٠-٠٠٠-١٣٩-٩٩٩"
+            },
+            {
+                "id": 4627,
+                "label_ar": "١٤٠,٠٠٠ - ١٤٩,٩٩٩",
+                "label_en": "140,000 - 149,999",
+                "url_name": "١٤٠-٠٠٠-١٤٩-٩٩٩"
+            },
+            {
+                "id": 4629,
+                "label_ar": "١٥٠,٠٠٠ - ١٥٩,٩٩٩",
+                "label_en": "150,000 - 159,999",
+                "url_name": "١٥٠-٠٠٠-١٥٩-٩٩٩"
+            },
+            {
+                "id": 4631,
+                "label_ar": "١٦٠,٠٠٠ - ١٦٩,٩٩٩",
+                "label_en": "160,000 - 169,999",
+                "url_name": "١٦٠-٠٠٠-١٦٩-٩٩٩"
+            },
+            {
+                "id": 4633,
+                "label_ar": "١٧٠,٠٠٠ - ١٧٩,٩٩٩",
+                "label_en": "170,000 - 179,999",
+                "url_name": "١٧٠-٠٠٠-١٧٩-٩٩٩"
+            },
+            {
+                "id": 4635,
+                "label_ar": "١٨٠,٠٠٠ - ١٨٩,٩٩٩",
+                "label_en": "180,000 - 189,999",
+                "url_name": "١٨٠-٠٠٠-١٨٩-٩٩٩"
+            },
+            {
+                "id": 4637,
+                "label_ar": "١٩٠,٠٠٠ - ١٩٩,٩٩٩",
+                "label_en": "190,000 - 199,999",
+                "url_name": "١٩٠-٠٠٠-١٩٩-٩٩٩"
+            },
+            {
+                "id": 4639,
+                "label_ar": "٢٠٠,٠٠٠+",
+                "label_en": "+200,000",
+                "url_name": "٢٠٠-٠٠٠"
+            }
+        ]
+    },
+    "paint": {
+        "label": "الدهان",
+        "type": "values",
+        "values": [
+            {
+                "id": 18389,
+                "label_ar": "أعيد دهانها كلياً",
+                "label_en": "Total repaint",
+                "url_name": "اعيد-دهانها-كليا"
+            },
+            {
+                "id": 18391,
+                "label_ar": "أعيد دهانها جزئياً",
+                "label_en": "Partially repainted",
+                "url_name": "اعيد-دهانها-جزئيا"
+            },
+            {
+                "id": 18393,
+                "label_ar": "الدهان الأصلي",
+                "label_en": "Original Paint",
+                "url_name": "الدهان-الاصلي"
+            },
+            {
+                "id": 18397,
+                "label_ar": "أخرى",
+                "label_en": "Other",
+                "url_name": "دهان-اخرى"
+            }
+        ]
+    },
+    "body_condition": {
+        "label": "حالة الهيكل",
+        "type": "values",
+        "values": [
+            {
+                "id": 18381,
+                "label_ar": "تعرضت لحادث (أضرار جسيمة في البودي)",
+                "label_en": "Poor (severe body damages)",
+                "url_name": "تعرضت-لحادث-اضرار-جسيمة-في-البودي"
+            },
+            {
+                "id": 18383,
+                "label_ar": "حادث بسيط (البودي يحتاج للإصلاح)",
+                "label_en": "Fair (body needs work)",
+                "url_name": "حادث-بسيط-البودي-يحتاج-للاصلاح"
+            },
+            {
+                "id": 18385,
+                "label_ar": "جيد (عيوب بسيطة في البودي)",
+                "label_en": "Good (body only has minor blemishes)",
+                "url_name": "جيد-عيوب-بسيطة-في-البودي"
+            },
+            {
+                "id": 18387,
+                "label_ar": "ممتازة بدون حوادث",
+                "label_en": "Excellent with no defects",
+                "url_name": "ممتازة-بدون-حوادث"
+            },
+            {
+                "id": 18395,
+                "label_ar": "أخرى",
+                "label_en": "Other",
+                "url_name": "حالة-اخرى"
+            }
+        ]
+    },
+    "CarCustoms": {
+        "label": "الجمرك",
+        "type": "values",
+        "values": [
+            {
+                "id": 12565,
+                "label_ar": "مجمركة",
+                "label_en": "With Customs"
+            },
+            {
+                "id": 12567,
+                "label_ar": "غير مجمركة",
+                "label_en": "Without Customs"
+            }
+        ]
+    },
+    "CarLicense": {
+        "label": "الترخيص",
+        "type": "values",
+        "values": [
+            {
+                "id": 12569,
+                "label_ar": "مرخصة",
+                "label_en": "Licensed"
+            },
+            {
+                "id": 12571,
+                "label_ar": "غير مرخصة",
+                "label_en": "Not Licensed"
+            }
+        ]
+    },
+    "CarInsurance": {
+        "label": "التأمين",
+        "type": "values",
+        "values": [
+            {
+                "id": 12573,
+                "label_ar": "تأمين إلزامي",
+                "label_en": "Compulsory Insurance"
+            },
+            {
+                "id": 12575,
+                "label_ar": "تأمين شامل",
+                "label_en": "Comprehensive Insurance"
+            },
+            {
+                "id": 12577,
+                "label_ar": "غير مؤمنّة",
+                "label_en": "Not Insured"
+            }
+        ]
+    },
+    "Payment_Method": {
+        "label": "طريقة الدفع",
+        "type": "values",
+        "values": [
+            {
+                "id": 7513,
+                "label_ar": "كاش فقط",
+                "label_en": "Cash Only",
+                "url_name": "كاش-فقط"
+            },
+            {
+                "id": 7515,
+                "label_ar": "أقساط فقط",
+                "label_en": "Installments Only",
+                "url_name": "أقساط-فقط"
+            },
+            {
+                "id": 7517,
+                "label_ar": "كاش أو أقساط",
+                "label_en": "Cash or Installments",
+                "url_name": "كاش-أو-أقساط"
+            }
+        ]
+    },
+    "car_origin": {
+        "label": "بلد المنشأ",
+        "type": "values",
+        "values": [
+            {
+                "id": 7818,
+                "label_ar": "اسبانيا",
+                "label_en": "Spain",
+                "url_name": "اسبانيا"
+            },
+            {
+                "id": 7820,
+                "label_ar": "السويد",
+                "label_en": "Sweden",
+                "url_name": "السويد"
+            },
+            {
+                "id": 7798,
+                "label_ar": "الصين",
+                "label_en": "China",
+                "url_name": "الصين"
+            },
+            {
+                "id": 7802,
+                "label_ar": "المانيا",
+                "label_en": "Germany",
+                "url_name": "المانيا"
+            },
+            {
+                "id": 7804,
+                "label_ar": "الهند",
+                "label_en": "India",
+                "url_name": "الهند"
+            },
+            {
+                "id": 7810,
+                "label_ar": "اليابان",
+                "label_en": "Japan",
+                "url_name": "اليابان"
+            },
+            {
+                "id": 7794,
+                "label_ar": "امريكا",
+                "label_en": "USA",
+                "url_name": "امريكا"
+            },
+            {
+                "id": 7806,
+                "label_ar": "ايران",
+                "label_en": "Iran",
+                "url_name": "ايران"
+            },
+            {
+                "id": 7808,
+                "label_ar": "ايطاليا",
+                "label_en": "Italy",
+                "url_name": "ايطاليا"
+            },
+            {
+                "id": 7796,
+                "label_ar": "بريطانيا",
+                "label_en": "England",
+                "url_name": "بريطانيا"
+            },
+            {
+                "id": 7816,
+                "label_ar": "روسيا",
+                "label_en": "Russia",
+                "url_name": "روسيا"
+            },
+            {
+                "id": 7800,
+                "label_ar": "فرنسا",
+                "label_en": "France",
+                "url_name": "فرنسا"
+            },
+            {
+                "id": 7812,
+                "label_ar": "كوريا",
+                "label_en": "Korea",
+                "url_name": "كوريا"
+            },
+            {
+                "id": 7814,
+                "label_ar": "ماليزيا",
+                "label_en": "Malaysia",
+                "url_name": "ماليزيا"
+            },
+            {
+                "id": 24502,
+                "label_ar": "هولندا",
+                "label_en": "Netherlands",
+                "url_name": "هولندا"
+            }
+        ]
+    },
+    "Post_type": {
+        "label": "نوع الاعلان",
+        "type": "values",
+        "values": [
+            {
+                "id": 7509,
+                "label_ar": "مطلوب",
+                "label_en": "Wanted",
+                "url_name": "مطلوب"
+            },
+            {
+                "id": 7511,
+                "label_ar": "معروض",
+                "label_en": "For Sale",
+                "url_name": "معروض"
+            }
+        ]
+    },
+    "Battery_Capacity": {
+        "label": "سعة البطارية",
+        "type": "values",
+        "values": [
+            {
+                "id": 24624,
+                "label_ar": "أقل من ٥٠ كيلو واط/ الساعة",
+                "label_en": "Less than 50 kWh"
+            },
+            {
+                "id": 24626,
+                "label_ar": "٥٠ - ٦٩ كيلو واط/ الساعة",
+                "label_en": "50 - 69 kWh"
+            },
+            {
+                "id": 24628,
+                "label_ar": "٧٠ - ٨٩ كيلو واط/ الساعة",
+                "label_en": "70 - 89 kWh"
+            },
+            {
+                "id": 24630,
+                "label_ar": "٩٠ - ٩٩ كيلو واط/ الساعة",
+                "label_en": "90 - 99 kWh"
+            },
+            {
+                "id": 24632,
+                "label_ar": "أكثر من ١٠٠ كيلو واط/ الساعة",
+                "label_en": "More than 100 kWh"
+            }
+        ]
+    },
+    "Battery_Range": {
+        "label": "مدى البطارية",
+        "type": "values",
+        "values": [
+            {
+                "id": 24634,
+                "label_ar": "أقل من ١٠٠ كم/الشحنة",
+                "label_en": "Less than 100 km"
+            },
+            {
+                "id": 24636,
+                "label_ar": "١٠٠ - ١٩٩ كم/الشحنة",
+                "label_en": "100 - 199 km"
+            },
+            {
+                "id": 24638,
+                "label_ar": "٢٠٠ - ٢٩٩ كم/الشحنة",
+                "label_en": "200 - 299 km"
+            },
+            {
+                "id": 24640,
+                "label_ar": "٣٠٠ - ٣٩٩ كم/الشحنة",
+                "label_en": "300 - 399 km"
+            },
+            {
+                "id": 24642,
+                "label_ar": "٤٠٠ - ٤٩٩ كم/الشحنة",
+                "label_en": "400 - 499 km"
+            },
+            {
+                "id": 24644,
+                "label_ar": "أكثر من ٥٠٠ كم/الشحنة",
+                "label_en": "More than 500 km"
+            }
+        ]
+    },
+    "Car_Engine_Size": {
+        "label": "سعة المحرك (سي سي)",
+        "type": "values",
+        "values": [
+            {
+                "id": 24646,
+                "label_ar": "٠ - ٤٩٩ سي سي",
+                "label_en": "0 - 499 cc"
+            },
+            {
+                "id": 24648,
+                "label_ar": "٥٠٠ - ٩٩٩ سي سي",
+                "label_en": "500 - 999 cc"
+            },
+            {
+                "id": 24650,
+                "label_ar": "١,٠٠٠ - ١,٩٩٩ سي سي",
+                "label_en": "1,000 - 1,999 cc"
+            },
+            {
+                "id": 24652,
+                "label_ar": "٢,٠٠٠ - ٢,٩٩٩ سي سي",
+                "label_en": "2,000 - 2,999 cc"
+            },
+            {
+                "id": 24654,
+                "label_ar": "٣,٠٠٠ - ٣,٩٩٩ سي سي",
+                "label_en": "3,000 - 3,999 cc"
+            },
+            {
+                "id": 24656,
+                "label_ar": "٤,٠٠٠ - ٤,٩٩٩ سي سي",
+                "label_en": "4,000 - 4,999 cc"
+            },
+            {
+                "id": 24658,
+                "label_ar": "٥,٠٠٠ - ٥,٩٩٩ سي سي",
+                "label_en": "5,000 - 5,999 cc"
+            },
+            {
+                "id": 24660,
+                "label_ar": "أكبر من ٦,٠٠٠ سي سي",
+                "label_en": "More than 6,000 cc"
+            }
+        ]
+    },
+    "price": {
+        "label": "السعر",
+        "type": "range",
+        "range": [
+            null,
+            1409840.688
+        ],
+        "values": [
+            {
+                "id": 10,
+                "label": "دينار",
+                "full_label": "دينار أردني"
+            }
+        ]
+    },
+    "city_ids": {
+        "label": "المدينة",
+        "type": "single_select",
+        "is_linkable": true,
+        "values": [
+            {
+                "id": 59,
+                "label_ar": "عمان",
+                "label_en": "Amman",
+                "url_name": "عمان"
+            },
+            {
+                "id": 60,
+                "label_ar": "إربد",
+                "label_en": "Irbid",
+                "url_name": "إربد"
+            },
+            {
+                "id": 83,
+                "label_ar": "الزرقاء",
+                "label_en": "Zarqa",
+                "url_name": "الزرقاء"
+            },
+            {
+                "id": 92,
+                "label_ar": "السلط",
+                "label_en": "Salt",
+                "url_name": "السلط"
+            },
+            {
+                "id": 128,
+                "label_ar": "مادبا",
+                "label_en": "Madaba",
+                "url_name": "مادبا"
+            },
+            {
+                "id": 61,
+                "label_ar": "العقبة",
+                "label_en": "Aqaba",
+                "url_name": "العقبة"
+            },
+            {
+                "id": 87,
+                "label_ar": "المفرق",
+                "label_en": "Mafraq",
+                "url_name": "المفرق"
+            },
+            {
+                "id": 91,
+                "label_ar": "جرش",
+                "label_en": "Jerash",
+                "url_name": "جرش"
+            },
+            {
+                "id": 89,
+                "label_ar": "الكرك",
+                "label_en": "Al Karak",
+                "url_name": "الكرك"
+            },
+            {
+                "id": 174,
+                "label_ar": "عجلون",
+                "label_en": "Ajloun",
+                "url_name": "عجلون"
+            },
+            {
+                "id": 62,
+                "label_ar": "معان",
+                "label_en": "Ma'an",
+                "url_name": "معان"
+            },
+            {
+                "id": 214,
+                "label_ar": "الرمثا",
+                "label_en": "Ramtha",
+                "url_name": "الرمثا"
+            },
+            {
+                "id": 175,
+                "label_ar": "الطفيلة",
+                "label_en": "Tafila",
+                "url_name": "الطفيلة"
+            },
+            {
+                "id": 655,
+                "label_ar": "الغور",
+                "label_en": "Jordan Valley",
+                "url_name": "الغور"
+            }
+        ]
+    },
+    "nhood_ids": {
+        "label": "المنطقة",
+        "type": "values",
+        "values": [],
+        "parent": "city_ids"
+    },
+    "other_options": {
+        "label": "خيارات اخرى",
+        "type": "toggle",
+        "values": [
+            {
+                "key": "has_price",
+                "label": "إعلانات مع سعر"
+            },
+            {
+                "key": "has_images",
+                "label": "إعلانات مع صور"
+            },
+            {
+                "key": "has_reels",
+                "label": "إعلانات مع رييلز"
+            },
+            {
+                "key": "is_premium",
+                "label": "إعلانات مميزة"
+            },
+            {
+                "key": "is_shop",
+                "label": "إعلانات المتاجر"
+            },
+            {
+                "key": "is_membership",
+                "label": "إعلانات العضوية"
+            }
+        ]
+    }
+}

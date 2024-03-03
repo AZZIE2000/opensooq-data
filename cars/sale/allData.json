@@ -1,0 +1,1744 @@
+{
+    "listing_id": 238165432,
+    "member_id": 42051099,
+    "title": "شيفروليه سبارك 2018 فحص كامل",
+    "masked_description": "شيفروليه سبارك 2018 \r\nفحص كامل 7 جيد \r\nوارد كوري \r\nتمشي لغاية 370 بالتنكة \r\nبحالة ممتازة \r\nلون ابيض \r\nجمرك حديث\r\n\r\nللبيع كاش او اقساط بدفعة اولى تبدأ من 599 دينار من خلال جهات تمويل",
+    "has_delivery_service": false,
+    "city_neighborhood": "عمان, شفا بدران",
+    "city": {
+        "id": 59,
+        "label": "عمان",
+        "name_english": "Amman",
+        "url": "عمان"
+    },
+    "neighborhood": {
+        "id": 6851,
+        "label": "شفا بدران",
+        "name_english": "Shafa Badran",
+        "url": "شفا-بدران"
+    },
+    "posted_date": "الآن",
+    "post_map": null,
+    "lang": "ar",
+    "category": {
+        "id": 1775,
+        "label": "سيارات ومركبات",
+        "reporting_name": "Autos",
+        "url": "سيارات-ومركبات"
+    },
+    "sub_category": {
+        "id": 1777,
+        "label": "سيارات للبيع",
+        "reporting_name": "CarsForSale",
+        "url": "سيارات-للبيع"
+    },
+    "publish_date": "03-03-2024",
+    "price_valid_until": "2024-03-19T12:07:07.000Z",
+    "masked_local_phone": "07702234XX",
+    "has_video": false,
+    "has_360": false,
+    "has_youtube": false,
+    "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/238165432",
+    "post_url": "https://jo.opensooq.com/search/238165432/شيفروليه-سبارك-2018-فحص-كامل",
+    "first_image_uri": "71/cc/71cc27ea0044339bf61495229e903d8bbbaef2bcd0cadb4f89f9d5de55e0576e.jpg",
+    "cv_id": null,
+    "vin_number": null,
+    "basic_info": {
+        "items": [
+            {
+                "field_id": 7,
+                "option_id": 121,
+                "field_name": "Brand",
+                "is_indexable": true,
+                "option_seo_value": "__VALUE__",
+                "field_label": "النوع",
+                "option_label": "شيفروليه",
+                "option_label_en": "Chevrolet",
+                "url": "شيفروليه",
+                "full_url": "/ar/سيارات-ومركبات/سيارات-للبيع/شيفروليه"
+            },
+            {
+                "field_id": 281,
+                "option_id": 1097,
+                "field_name": "Brand_child",
+                "is_indexable": true,
+                "option_seo_value": "__VALUE__",
+                "field_label": "الفئة",
+                "option_label": "سبارك",
+                "option_label_en": "Spark",
+                "url": "شيفروليه-سبارك",
+                "full_url": "/ar/سيارات-ومركبات/سيارات-للبيع/شيفروليه/شيفروليه-سبارك"
+            },
+            {
+                "field_id": 9,
+                "option_id": 7618,
+                "field_name": "Car_Year",
+                "is_indexable": true,
+                "option_seo_value": "__VALUE__",
+                "field_label": "سنة الصنع",
+                "option_label": "2018",
+                "option_label_en": "2018",
+                "url": "2018",
+                "full_url": "/ar/سيارات-ومركبات/سيارات-للبيع/شيفروليه/شيفروليه-سبارك/2018"
+            },
+            {
+                "field_id": 346,
+                "option_id": 7696,
+                "field_name": "Cars_body_types",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "نوع الهيكل",
+                "option_label": "هاتشباك",
+                "option_label_en": "HatchBack",
+                "full_url": "jo/cpsearch//1775/1777/Cars_body_types:7696////////"
+            },
+            {
+                "field_id": 669,
+                "option_id": 18379,
+                "field_name": "regional_specs",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "مواصفات إقليمية",
+                "option_label": "مواصفات أخرى",
+                "option_label_en": "Other Specs",
+                "full_url": "jo/cpsearch//1775/1777/regional_specs:18379////////"
+            },
+            {
+                "field_id": 119,
+                "option_id": 4795,
+                "field_name": "Tramsmission_Cars",
+                "is_indexable": false,
+                "option_seo_value": "جير __VALUE__",
+                "field_label": "نوع ناقل الحركة",
+                "option_label": "اوتوماتيك",
+                "option_label_en": "Automatic",
+                "full_url": "jo/cpsearch//1775/1777/Tramsmission_Cars:4795////////"
+            },
+            {
+                "field_id": 95,
+                "option_id": 4697,
+                "field_name": "Fuel_Cars",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "نوع الوقود",
+                "option_label": "بنزين",
+                "option_label_en": "Gasoline",
+                "full_url": "jo/cpsearch//1775/1777/Fuel_Cars:4697////////"
+            },
+            {
+                "field_id": 275,
+                "option_id": 7341,
+                "field_name": "Car_Color",
+                "is_indexable": false,
+                "option_seo_value": "لون __VALUE__",
+                "field_label": "اللون",
+                "option_label": "أبيض",
+                "option_label_en": "White",
+                "full_url": "jo/cpsearch//1775/1777/Car_Color:7341////////"
+            },
+            {
+                "field_id": 83,
+                "option_id": 4643,
+                "field_name": "ConditionUsed",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "الحالة",
+                "option_label": "مستعمل",
+                "option_label_en": "Used",
+                "full_url": "jo/cpsearch//1775/1777/ConditionUsed:4643////////"
+            },
+            {
+                "field_id": 81,
+                "option_id": 4611,
+                "field_name": "Kilometers_Cars",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "الكيلومترات",
+                "option_label": "٦٠,٠٠٠ - ٦٩,٩٩٩",
+                "option_label_en": "60,000 - 69,999",
+                "full_url": "jo/cpsearch//1775/1777/Kilometers_Cars:4611////////"
+            },
+            {
+                "field_id": 673,
+                "option_id": 18393,
+                "field_name": "paint",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "الدهان",
+                "option_label": "الدهان الأصلي",
+                "option_label_en": "Original Paint",
+                "full_url": "jo/cpsearch//1775/1777/paint:18393////////"
+            },
+            {
+                "field_id": 671,
+                "option_id": 18387,
+                "field_name": "body_condition",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "حالة الهيكل",
+                "option_label": "ممتازة بدون حوادث",
+                "option_label_en": "Excellent with no defects",
+                "full_url": "jo/cpsearch//1775/1777/body_condition:18387////////"
+            },
+            {
+                "field_id": 525,
+                "option_id": 12565,
+                "field_name": "CarCustoms",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "الجمرك",
+                "option_label": "مجمركة",
+                "option_label_en": "With Customs",
+                "full_url": "jo/cpsearch//1775/1777/CarCustoms:12565////////"
+            },
+            {
+                "field_id": 527,
+                "option_id": 12569,
+                "field_name": "CarLicense",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "الترخيص",
+                "option_label": "مرخصة",
+                "option_label_en": "Licensed",
+                "full_url": "jo/cpsearch//1775/1777/CarLicense:12569////////"
+            },
+            {
+                "field_id": 529,
+                "option_id": 12573,
+                "field_name": "CarInsurance",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "التأمين",
+                "option_label": "تأمين إلزامي",
+                "option_label_en": "Compulsory Insurance",
+                "full_url": "jo/cpsearch//1775/1777/CarInsurance:12573////////"
+            },
+            {
+                "field_id": 323,
+                "option_id": 7517,
+                "field_name": "Payment_Method",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "طريقة الدفع",
+                "option_label": "كاش أو أقساط",
+                "option_label_en": "Cash or Installments",
+                "full_url": "jo/cpsearch//1775/1777/Payment_Method:7517////////"
+            },
+            {
+                "field_id": 854,
+                "option_id": 24650,
+                "field_name": "Car_Engine_Size",
+                "is_indexable": false,
+                "option_seo_value": "__VALUE__",
+                "field_label": "سعة المحرك (سي سي)",
+                "option_label": "١,٠٠٠ - ١,٩٩٩ سي سي",
+                "option_label_en": "1,000 - 1,999 cc",
+                "full_url": "jo/cpsearch//1775/1777/Car_Engine_Size:24650////////"
+            }
+        ],
+        "extra_items": [
+            {
+                "item_name": "مواصفات داخلية",
+                "items": [
+                    {
+                        "field_id": 825,
+                        "option_id": 12557,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": " AUX / USB مدخل",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 12559,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "بلوتوث",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 12561,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "فرامل ABS",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 12563,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "سنترلوك",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 21553,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "نظام إنذار",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 12541,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "مكيف",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 21565,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "زجاج كهربائي",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 12545,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "مساعد الاصطفاف",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 21587,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "مانع انزلاق",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 12551,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "أكياس هوائية",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 825,
+                        "option_id": 21589,
+                        "field_name": "Interior_Options",
+                        "field_label": "مواصفات داخلية",
+                        "option_label": "حساس ضغط الاطارات",
+                        "option_label_en": "Interior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    }
+                ]
+            },
+            {
+                "item_name": "مواصفات خارجية",
+                "items": [
+                    {
+                        "field_id": 827,
+                        "option_id": 23034,
+                        "field_name": "Exterior_Options",
+                        "field_label": "مواصفات خارجية",
+                        "option_label": "أنوار نهارية",
+                        "option_label_en": "Exterior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    },
+                    {
+                        "field_id": 827,
+                        "option_id": 23036,
+                        "field_name": "Exterior_Options",
+                        "field_label": "مواصفات خارجية",
+                        "option_label": "حساسات خلفية",
+                        "option_label_en": "Exterior Options",
+                        "is_indexable": false,
+                        "option_seo_value": "__VALUE__"
+                    }
+                ]
+            }
+        ]
+    },
+    "price": {
+        "has_price": true,
+        "price": "599",
+        "currencies": [
+            {
+                "price": "599 دينار ",
+                "currency_label": "دينار أردني",
+                "symbol_label": "دينار ",
+                "currency_code": "JOD"
+            }
+        ]
+    },
+    "enable_login_before_call": true,
+    "addOn": {
+        "contact": {
+            "sms": {
+                "enabled": false,
+                "phone_number": "962770223422",
+                "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+            },
+            "whatsapp": {
+                "enabled": false,
+                "phone_number": "962770223422",
+                "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+            }
+        },
+        "branding": {
+            "avatar": "https://opensooq-images.os-cdn.com/previews/50x50/9e/5b/9e5b21edda43460e537d9f113db80cc7275bf9ea49eeee8b4c8e283fa018a2ab.jpg.jpg",
+            "name": "Kinda Motors "
+        },
+        "recommended_enabled": false,
+        "similar_enabled": true,
+        "similar_type": "infinite"
+    },
+    "post_tags": [
+        {
+            "tag": "سيارات تويوتا باص للبيع في الأردن",
+            "url": "سيارات-تويوتا-باص-للبيع-في-الأردن"
+        },
+        {
+            "tag": "سيارات jac للبيع في الأردن",
+            "url": "سيارات-jac-للبيع-في-الأردن"
+        },
+        {
+            "tag": "سيارات سوزوكي للبيع في الأردن",
+            "url": "سيارات-سوزوكي-للبيع-في-الأردن"
+        },
+        {
+            "tag": "سيارات اقساط للبيع",
+            "url": "سيارات-اقساط-للبيع"
+        },
+        {
+            "tag": "معارض السيارات في عمان",
+            "url": "معارض-السيارات-في-عمان"
+        },
+        {
+            "tag": "سيارات سيتروين للبيع في الأردن",
+            "url": "سيارات-سيتروين-للبيع-في-الأردن"
+        },
+        {
+            "tag": "ميتسوبيشي فراشة للبيع في الاردن",
+            "url": "ميتسوبيشي-فراشة-للبيع-في-الاردن"
+        },
+        {
+            "tag": "سيارات كيا سيفيا للبيع بالاقساط",
+            "url": "سيارات-كيا-سيفيا-للبيع-بالاقساط"
+        },
+        {
+            "tag": "سيارات فولكس فاجن للبيع في الأردن",
+            "url": "سيارات-فولكس-فاجن-للبيع-في-الأردن"
+        },
+        {
+            "tag": "سيارات اقساط بسعر الكاش",
+            "url": "سيارات-اقساط-بسعر-الكاش"
+        },
+        {
+            "tag": "بيجو 206 بالتقسيط",
+            "url": "بيجو-206-بالتقسيط"
+        },
+        {
+            "tag": "بكبات دبل كابين للبيع في الاردن",
+            "url": "بكبات-دبل-كابين-للبيع-في-الاردن"
+        },
+        {
+            "tag": "سيارات كيا سيفيا للبيع في الأردن",
+            "url": "سيارات-كيا-سيفيا-للبيع-في-الأردن"
+        },
+        {
+            "tag": "باص هونداي h100 للبيع اقساط",
+            "url": "باص-هونداي-h100-للبيع-اقساط"
+        },
+        {
+            "tag": "سيارات ميتسوبيشي لانسر للبيع في عمان",
+            "url": "سيارات-ميتسوبيشي-لانسر-للبيع-في-عمان"
+        },
+        {
+            "tag": "بريوس سي اقساط",
+            "url": "بريوس-سي-اقساط"
+        },
+        {
+            "tag": "سيارات حديثة للبيع في الاردن",
+            "url": "سيارات-حديثة-للبيع-في-الاردن"
+        },
+        {
+            "tag": "سيارات شيفروليه بليزر للبيع في الأردن",
+            "url": "سيارات-شيفروليه-بليزر-للبيع-في-الأردن"
+        },
+        {
+            "tag": "سيارات ميتسوبيشي l200 للبيع في جرش",
+            "url": "سيارات-ميتسوبيشي-l200-للبيع-في-جرش"
+        },
+        {
+            "tag": "سيارات شاحنات ومعدات ثقيلة قلاب للبيع في الأردن",
+            "url": "سيارات-شاحنات-ومعدات-ثقيلة-قلاب-للبيع-في-الأردن"
+        }
+    ],
+    "can_export": null,
+    "services": [
+        "Turbo"
+    ],
+    "next_prev": {
+        "next_url": "/ar/search/239161340/كيا-شوما-بسعر-مغري-للبيع",
+        "prev_url": "/ar/search/239160690/مازدا-cx-9-high-موديل-2014"
+    },
+    "loan_type": "EtihadBank",
+    "similar_ads": {
+        "items": [
+            {
+                "id": 238759202,
+                "price": 599,
+                "title": "شيفروليه سبارك 2020 ماتور 1400cc",
+                "local_phone": "07702234XX",
+                "masked_local_phone": "07702234XX",
+                "natural_date": "26-02-2024",
+                "cv_id": null,
+                "first_image_uri": "f9/73/f9732587ed8e63e6e33106495e16207ca22f4187786a56c9867a2f92fe3a061e.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/238759202",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962770223422",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962770223422",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "599 دينار ",
+                        "price_d": 599,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6851,
+                    "name": "شفا بدران",
+                    "name_en": "Shafa Badran",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "شفا بدران",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "شفا بدران shafa badran"
+                },
+                "postUrl": "/ar/search/238759202/شيفروليه-سبارك-2020-ماتور-1400cc",
+                "similarStringCps": "شيفروليه ‎,‎سبارك ‎,‎2020"
+            },
+            {
+                "id": 237900094,
+                "price": 1499,
+                "title": "شيفروليه بولت 2017  و 2019 كهرباء اعلى صنف بدفعة اولى 1499 تقسيط على مدة 6 سنوات",
+                "local_phone": "07981345XX",
+                "masked_local_phone": "07981345XX",
+                "natural_date": "14-02-2024",
+                "cv_id": null,
+                "first_image_uri": "f4/90/f49095a3f1c257161c65a722fbb925109d73ca791ab5675a40b9b68c64b91cd4.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/237900094",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962798134549",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962798134549",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "1,499 دينار ",
+                        "price_d": 1499,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6743,
+                    "name": "ابو نصير",
+                    "name_en": "Abu Nsair",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "ابو نصير",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "ابو نصير abu nsair"
+                },
+                "postUrl": "/ar/search/237900094/شيفروليه-بولت-2017-و-2019-كهرباء-اعلى-صنف-بدفعة-اولى-1499-تقسيط-على-مدة-6-سنوات",
+                "similarStringCps": "شيفروليه ‎,‎بولت ‎,‎2017"
+            },
+            {
+                "id": 237373458,
+                "price": 1500,
+                "title": "شفروليه بولت 2019 كهرباء جمرك جديد وارد كوري",
+                "local_phone": "07903637XX",
+                "masked_local_phone": "07903637XX",
+                "natural_date": "24-02-2024",
+                "cv_id": null,
+                "first_image_uri": "92/1e/921e08ef6dd8f80dc9b85faf433195cb1821092cc33ae248ec65d9d030e1696c.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/237373458",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962790363726",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962790363726",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "1,500 دينار ",
+                        "price_d": 1500,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6743,
+                    "name": "ابو نصير",
+                    "name_en": "Abu Nsair",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "ابو نصير",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "ابو نصير abu nsair"
+                },
+                "postUrl": "/ar/search/237373458/شفروليه-بولت-2019-كهرباء-جمرك-جديد-وارد-كوري",
+                "similarStringCps": "شيفروليه ‎,‎بولت ‎,‎2019"
+            },
+            {
+                "id": 238607568,
+                "price": 1500,
+                "title": "شيفروليه بولت 2019 بريمير",
+                "local_phone": "07963079XX",
+                "masked_local_phone": "07963079XX",
+                "natural_date": "أمس",
+                "cv_id": null,
+                "first_image_uri": "c1/98/c1980808098ec16e41d8f39ee59573b082ae4e45f59d459286bf120044bc12ad.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/238607568",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962796307924",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962796307924",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "1,500 دينار ",
+                        "price_d": 1500,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6851,
+                    "name": "شفا بدران",
+                    "name_en": "Shafa Badran",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "شفا بدران",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "شفا بدران shafa badran"
+                },
+                "postUrl": "/ar/search/238607568/شيفروليه-بولت-2019-بريمير",
+                "similarStringCps": "شيفروليه ‎,‎بولت ‎,‎2019"
+            },
+            {
+                "id": 238802270,
+                "price": 999,
+                "title": "كيا مورنينج 2019 فحص كامل",
+                "local_phone": "07981345XX",
+                "masked_local_phone": "07981345XX",
+                "natural_date": "27-02-2024",
+                "cv_id": null,
+                "first_image_uri": "8e/84/8e8405f2c3df9eff73fab5857f7a98692a53e2c59d73c2c394d2c43183e4faac.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/238802270",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962798134549",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962798134549",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "999 دينار ",
+                        "price_d": 999,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6851,
+                    "name": "شفا بدران",
+                    "name_en": "Shafa Badran",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "شفا بدران",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "شفا بدران shafa badran"
+                },
+                "postUrl": "/ar/search/238802270/كيا-مورنينج-2019-فحص-كامل",
+                "similarStringCps": "كيا ‎,‎مورنينج ‎,‎2019"
+            },
+            {
+                "id": 238808994,
+                "price": 699,
+                "title": "كيا بيكانتو 2019 12500cc",
+                "local_phone": "07981345XX",
+                "masked_local_phone": "07981345XX",
+                "natural_date": "27-02-2024",
+                "cv_id": null,
+                "first_image_uri": "c2/93/c2930826517a1b838faa98d397706b5afe11e9e01ac71c62ca625f56ce7e3a65.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/238808994",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962798134549",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962798134549",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "699 دينار ",
+                        "price_d": 699,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6851,
+                    "name": "شفا بدران",
+                    "name_en": "Shafa Badran",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "شفا بدران",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "شفا بدران shafa badran"
+                },
+                "postUrl": "/ar/search/238808994/كيا-بيكانتو-2019-12500cc",
+                "similarStringCps": "كيا ‎,‎بيكانتو ‎,‎2019"
+            },
+            {
+                "id": 237900132,
+                "price": 1199,
+                "title": "كيا k3 موديل 2018 جمرك جديد فحص كامل وارد كوري",
+                "local_phone": "07956254XX",
+                "masked_local_phone": "07956254XX",
+                "natural_date": "أمس",
+                "cv_id": null,
+                "first_image_uri": "73/79/73793a6063bf76e7f1bc24bb0dc9d072cccbc7ad984d25cc8789d94a99de3da6.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/237900132",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962795625490",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962795625490",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "1,199 دينار ",
+                        "price_d": 1199,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6743,
+                    "name": "ابو نصير",
+                    "name_en": "Abu Nsair",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "ابو نصير",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "ابو نصير abu nsair"
+                },
+                "postUrl": "/ar/search/237900132/كيا-k3-موديل-2018-جمرك-جديد-فحص-كامل-وارد-كوري",
+                "similarStringCps": "كيا ‎,‎K3 ‎,‎2018"
+            },
+            {
+                "id": 237575516,
+                "price": 900,
+                "title": "هونداي اكسنت 2018 فل كامل اعلى صنف عدا الفتحة وارد كوري جمرك جديد",
+                "local_phone": "07956254XX",
+                "masked_local_phone": "07956254XX",
+                "natural_date": "أمس",
+                "cv_id": null,
+                "first_image_uri": "cb/aa/cbaa63af32e640fefb1a8e2234c70078c104ca45e27425b297432704ba02b1a2.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/237575516",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962795625490",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962795625490",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "900 دينار ",
+                        "price_d": 900,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6743,
+                    "name": "ابو نصير",
+                    "name_en": "Abu Nsair",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "ابو نصير",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "ابو نصير abu nsair"
+                },
+                "postUrl": "/ar/search/237575516/هونداي-اكسنت-2018-فل-كامل-اعلى-صنف-عدا-الفتحة-وارد-كوري-جمرك-جديد",
+                "similarStringCps": "هيونداي ‎,‎أكسنت ‎,‎2018"
+            }
+        ],
+        "searchTags": [
+            {
+                "search": [
+                    {
+                        "key": "PostSearch[categoryId]",
+                        "value": "1775"
+                    }
+                ],
+                "label": "سيارات ومركبات",
+                "enable_clear": true,
+                "type": "category",
+                "field_id": 1775
+            },
+            {
+                "search": [
+                    {
+                        "key": "PostSearch[subCategoryId]",
+                        "value": "1777"
+                    }
+                ],
+                "label": "سيارات للبيع",
+                "enable_clear": true,
+                "type": "subcategory",
+                "field_id": 1777
+            }
+        ],
+        "template": "grid",
+        "enable_login_before_call": true,
+        "_links": {
+            "self": {
+                "href": "http://api-rev.opensooq.internal/v2.1/posts/238165432/search-post-similar?per-page=8&page=1&fields=id%2Ctitle%2Cfirst_image_uri%2Cview_type%2Ccv_id%2Cnatural_date%2Clocal_phone%2Cmasked_local_phone%2Cprice%2Cshare_deeplink&expand=postUrl%2Cprice_list%2Ccity%2Cneighborhood%2CsimilarStringCps%2CbookmarkStatus%2CcontactAddon%2Cbranding%2Cis_authorized_member"
+            },
+            "first": {
+                "href": "http://api-rev.opensooq.internal/v2.1/posts/238165432/search-post-similar?per-page=8&page=1&fields=id%2Ctitle%2Cfirst_image_uri%2Cview_type%2Ccv_id%2Cnatural_date%2Clocal_phone%2Cmasked_local_phone%2Cprice%2Cshare_deeplink&expand=postUrl%2Cprice_list%2Ccity%2Cneighborhood%2CsimilarStringCps%2CbookmarkStatus%2CcontactAddon%2Cbranding%2Cis_authorized_member"
+            },
+            "last": {
+                "href": "http://api-rev.opensooq.internal/v2.1/posts/238165432/search-post-similar?per-page=8&page=5&fields=id%2Ctitle%2Cfirst_image_uri%2Cview_type%2Ccv_id%2Cnatural_date%2Clocal_phone%2Cmasked_local_phone%2Cprice%2Cshare_deeplink&expand=postUrl%2Cprice_list%2Ccity%2Cneighborhood%2CsimilarStringCps%2CbookmarkStatus%2CcontactAddon%2Cbranding%2Cis_authorized_member"
+            },
+            "next": {
+                "href": "http://api-rev.opensooq.internal/v2.1/posts/238165432/search-post-similar?per-page=8&page=2&fields=id%2Ctitle%2Cfirst_image_uri%2Cview_type%2Ccv_id%2Cnatural_date%2Clocal_phone%2Cmasked_local_phone%2Cprice%2Cshare_deeplink&expand=postUrl%2Cprice_list%2Ccity%2Cneighborhood%2CsimilarStringCps%2CbookmarkStatus%2CcontactAddon%2Cbranding%2Cis_authorized_member"
+            }
+        },
+        "_meta": {
+            "totalCount": 33,
+            "pageCount": 5,
+            "currentPage": 1,
+            "perPage": 8,
+            "category_id": 1775,
+            "sub_category_id": 1777,
+            "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/postSERP/238165432",
+            "title": "إعلانات المتجر"
+        }
+    },
+    "recommended_ads": {
+        "items": [
+            {
+                "id": 239153164,
+                "price": 2350,
+                "title": "هونداي ايونيك هايبرد لون احمر موديل 2019 للبيع كاش او اقساط",
+                "local_phone": "07811198XX",
+                "masked_local_phone": "07811198XX",
+                "natural_date": "قبل ساعة",
+                "cv_id": null,
+                "first_image_uri": "3c/18/3c18723b14ed1ccdaeb1bc91e60a92ebd18ea6a4f00b255684de29c95f8ddc25.jpg",
+                "first_image_thumb": "https://opensooq-images.os-cdn.com/previews/220x0/3c/18/3c18723b14ed1ccdaeb1bc91e60a92ebd18ea6a4f00b255684de29c95f8ddc25.jpg.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/239153164",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962781119833",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962781119833",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "2,350 دينار ",
+                        "price_d": 2350,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6759,
+                    "name": "الجاردنز",
+                    "name_en": "Al Gardens",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "الجاردنز",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "الجاردنز al gardens"
+                },
+                "postUrl": "/ar/search/239153164/هونداي-ايونيك-هايبرد-لون-احمر-موديل-2019-للبيع-كاش-او-اقساط",
+                "similarStringCps": "كيا ‎,‎مورنينج ‎,‎2019"
+            },
+            {
+                "id": 239143590,
+                "price": 3200,
+                "title": "بيجو 307 نيو موديل 2006 للبيع بسعر مغري",
+                "local_phone": "07969988XX",
+                "masked_local_phone": "07969988XX",
+                "natural_date": "قبل 4 ساعات",
+                "cv_id": null,
+                "first_image_uri": "21/7e/217edac6c999055143ae3576421dd6af38541edb649b5b0cf46a3ac9bac73d85.jpg",
+                "first_image_thumb": "https://opensooq-images.os-cdn.com/previews/220x0/21/7e/217edac6c999055143ae3576421dd6af38541edb649b5b0cf46a3ac9bac73d85.jpg.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/239143590",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962796998856",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962796998856",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "3,200 دينار ",
+                        "price_d": 3200,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6835,
+                    "name": "خلدا",
+                    "name_en": "Khalda",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "خلدا",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "خلدا khalda"
+                },
+                "postUrl": "/ar/search/239143590/بيجو-307-نيو-موديل-2006-للبيع-بسعر-مغري",
+                "similarStringCps": "بيجو ‎,‎307 ‎,‎2006"
+            },
+            {
+                "id": 239150470,
+                "price": 8700,
+                "title": "Kia Rio 2016",
+                "local_phone": "07805506XX",
+                "masked_local_phone": "07805506XX",
+                "natural_date": "قبل ساعتان",
+                "cv_id": null,
+                "first_image_uri": "6b/c3/6bc3960f9bec97f0b0786e12648aaa840a41ae65f33e045f327c024d308da2f5.jpg",
+                "first_image_thumb": "https://opensooq-images.os-cdn.com/previews/220x0/6b/c3/6bc3960f9bec97f0b0786e12648aaa840a41ae65f33e045f327c024d308da2f5.jpg.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/239150470",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962780550606",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962780550606",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "8,700 دينار ",
+                        "price_d": 8700,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 13509,
+                    "name": "الربوة",
+                    "name_en": "Al-Rabwa",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "الربوة",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "الربوه al-rabwa"
+                },
+                "postUrl": "/ar/search/239150470/kia-rio-2016",
+                "similarStringCps": "كيا ‎,‎ريو ‎,‎2016"
+            },
+            {
+                "id": 239102516,
+                "price": 7250,
+                "title": "كيا بيكانتو 2016",
+                "local_phone": "07959930XX",
+                "masked_local_phone": "07959930XX",
+                "natural_date": "قبل 20 ساعة",
+                "cv_id": null,
+                "first_image_uri": "d4/41/d441b97bd1c9c9b3a3fde7a11ec73a0ed711ca5b5676f6b698ff3a339835ac36.jpg",
+                "first_image_thumb": "https://opensooq-images.os-cdn.com/previews/220x0/d4/41/d441b97bd1c9c9b3a3fde7a11ec73a0ed711ca5b5676f6b698ff3a339835ac36.jpg.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/239102516",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962795993010",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962795993010",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "7,250 دينار ",
+                        "price_d": 7250,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 13326,
+                    "name": "الذراع",
+                    "name_en": "Al-Thra",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "الذراع",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "الذراع al-thra"
+                },
+                "postUrl": "/ar/search/239102516/كيا-بيكانتو-2016",
+                "similarStringCps": "كيا ‎,‎بيكانتو ‎,‎2016"
+            },
+            {
+                "id": 239128758,
+                "price": 9750,
+                "title": "كيا بيكانتو",
+                "local_phone": "07960300XX",
+                "masked_local_phone": "07960300XX",
+                "natural_date": "قبل 14 ساعة",
+                "cv_id": null,
+                "first_image_uri": "32/0a/320a3731f2b43979e47bbff7954f47a0148cb794e692b2fdf797db242f59318f.jpg",
+                "first_image_thumb": "https://opensooq-images.os-cdn.com/previews/220x0/32/0a/320a3731f2b43979e47bbff7954f47a0148cb794e692b2fdf797db242f59318f.jpg.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/239128758",
+                "city": {
+                    "id": 61,
+                    "countries_id": 12,
+                    "name": "العقبة",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Aqaba",
+                    "url_name_ar": "العقبة",
+                    "url_name_en": "aqaba",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "العقبة",
+                    "searchable_text": "العقبه aqaba"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962796030067",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962796030067",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "9,750 دينار ",
+                        "price_d": 9750,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 7139,
+                    "name": "السكنية 3",
+                    "name_en": "Al Sakaneyeh 3",
+                    "cities_id": 61,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "السكنية 3",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "السكنيه 3 al sakaneyeh 3"
+                },
+                "postUrl": "/ar/search/239128758/كيا-بيكانتو",
+                "similarStringCps": "كيا ‎,‎بيكانتو ‎,‎2020"
+            },
+            {
+                "id": 238709298,
+                "price": 8000,
+                "title": "بيجو 207موديل 2016 للبيع",
+                "local_phone": "07964828XX",
+                "masked_local_phone": "07964828XX",
+                "natural_date": "26-02-2024",
+                "cv_id": null,
+                "first_image_uri": "48/3a/483a2cc308e3a3670d3f6158f8f7a62a4547dd50e7da0bc5f2da95f07ad3162c.jpg",
+                "first_image_thumb": "https://opensooq-images.os-cdn.com/previews/220x0/48/3a/483a2cc308e3a3670d3f6158f8f7a62a4547dd50e7da0bc5f2da95f07ad3162c.jpg.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/238709298",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962796482834",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962796482834",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "8,000 دينار ",
+                        "price_d": 8000,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6755,
+                    "name": "البنيات",
+                    "name_en": "Al Bnayyat",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "البنيات",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "البنيات al bnayyat"
+                },
+                "postUrl": "/ar/search/238709298/بيجو-207موديل-2016-للبيع",
+                "similarStringCps": "بيجو ‎,‎207 ‎,‎2016"
+            },
+            {
+                "id": 239082910,
+                "price": 7800,
+                "title": "بيجو 301 2017 فحص كامل",
+                "local_phone": "07855505XX",
+                "masked_local_phone": "07855505XX",
+                "natural_date": "أمس",
+                "cv_id": null,
+                "first_image_uri": "f4/21/f42101b67ddf93d6712f26940a164beec001ed1892efe8450e866c51690ae31b.jpg",
+                "first_image_thumb": "https://opensooq-images.os-cdn.com/previews/220x0/f4/21/f42101b67ddf93d6712f26940a164beec001ed1892efe8450e866c51690ae31b.jpg.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/239082910",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962785550512",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962785550512",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "7,800 دينار ",
+                        "price_d": 7800,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 6803,
+                    "name": "الياسمين",
+                    "name_en": "Daheit Al Yasmeen",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "الياسمين",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "الياسمين daheit al yasmeen"
+                },
+                "postUrl": "/ar/search/239082910/بيجو-301-2017-فحص-كامل",
+                "similarStringCps": "بيجو ‎,‎301 ‎,‎2017"
+            },
+            {
+                "id": 239103912,
+                "price": 3000,
+                "title": "بيجو 206 موديل 2002 اتومتيك ماتور1400",
+                "local_phone": "07967786XX",
+                "masked_local_phone": "07967786XX",
+                "natural_date": "قبل 20 ساعة",
+                "cv_id": null,
+                "first_image_uri": "b0/18/b018ecb876880a450cad09e9129d384d28f7cc67e2b8a36c0184721eb4659261.jpg",
+                "first_image_thumb": "https://opensooq-images.os-cdn.com/previews/220x0/b0/18/b018ecb876880a450cad09e9129d384d28f7cc67e2b8a36c0184721eb4659261.jpg.jpg",
+                "view_type": "default",
+                "share_deeplink": "https://opensooq.com/site/dl?requestUri=${utm}$jo/post/239103912",
+                "city": {
+                    "id": 59,
+                    "countries_id": 12,
+                    "name": "عمان",
+                    "order": null,
+                    "order_en": null,
+                    "name_english": "Amman",
+                    "url_name_ar": "عمان",
+                    "url_name_en": "amman",
+                    "lat": null,
+                    "lng": null,
+                    "region_id": 0,
+                    "name_arabic": "عمان",
+                    "searchable_text": "عمان amman"
+                },
+                "bookmarkStatus": false,
+                "branding": null,
+                "contactAddon": {
+                    "sms": {
+                        "enabled": false,
+                        "phone_number": "962796778691",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "whatsapp": {
+                        "enabled": false,
+                        "phone_number": "962796778691",
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    },
+                    "chat": {
+                        "enabled": true,
+                        "message": "مرحباً، الرجاء التواصل معي.انا مهتم في إعلانك على السوق المفتوح: {Link}"
+                    }
+                },
+                "is_authorized_member": false,
+                "price_list": {
+                    "10": {
+                        "full_name": "دينار أردني",
+                        "shorthand": "دينار ",
+                        "price": "3,000 دينار ",
+                        "price_d": 3000,
+                        "price_code": "JOD"
+                    }
+                },
+                "neighborhood": {
+                    "id": 10725,
+                    "name": "خربة السوق",
+                    "name_en": "Khirbet Sooq",
+                    "cities_id": 59,
+                    "order": null,
+                    "order_en": null,
+                    "name_ar": "خربة السوق",
+                    "lat": null,
+                    "lng": null,
+                    "is_other": false,
+                    "searchable_text": "خربه السوق khirbet sooq"
+                },
+                "postUrl": "/ar/search/239103912/بيجو-206-موديل-2002-اتومتيك-ماتور1400",
+                "similarStringCps": "بيجو ‎,‎206 ‎,‎2002"
+            }
+        ],
+        "searchTags": [
+            {
+                "search": [
+                    {
+                        "key": "PostSearch[categoryId]",
+                        "value": "1775"
+                    }
+                ],
+                "label": "سيارات ومركبات",
+                "enable_clear": true,
+                "type": "category",
+                "field_id": 1775
+            },
+            {
+                "search": [
+                    {
+                        "key": "PostSearch[subCategoryId]",
+                        "value": "1777"
+                    }
+                ],
+                "label": "سيارات للبيع",
+                "enable_clear": true,
+                "type": "subcategory",
+                "field_id": 1777
+            }
+        ],
+        "enable_login_before_call": true,
+        "template": "grid",
+        "_links": {
+            "self": {
+                "href": "http://api-rev.opensooq.internal/v2.1/posts/238165432/search-post-recommended?per-page=8&page=1&fields=id%2Ctitle%2Cfirst_image_uri%2Cview_type%2Ccv_id%2Cnatural_date%2Clocal_phone%2Cmasked_local_phone%2Cprice%2Cfirst_image_thumb%2Cshare_deeplink&expand=postUrl%2Cprice_list%2Ccity%2Cneighborhood%2CsimilarStringCps%2CbookmarkStatus%2CcontactAddon%2Cbranding%2Cis_authorized_member&includeSelf=0"
+            },
+            "first": {
+                "href": "http://api-rev.opensooq.internal/v2.1/posts/238165432/search-post-recommended?per-page=8&page=1&fields=id%2Ctitle%2Cfirst_image_uri%2Cview_type%2Ccv_id%2Cnatural_date%2Clocal_phone%2Cmasked_local_phone%2Cprice%2Cfirst_image_thumb%2Cshare_deeplink&expand=postUrl%2Cprice_list%2Ccity%2Cneighborhood%2CsimilarStringCps%2CbookmarkStatus%2CcontactAddon%2Cbranding%2Cis_authorized_member&includeSelf=0"
+            },
+            "last": {
+                "href": "http://api-rev.opensooq.internal/v2.1/posts/238165432/search-post-recommended?per-page=8&page=306&fields=id%2Ctitle%2Cfirst_image_uri%2Cview_type%2Ccv_id%2Cnatural_date%2Clocal_phone%2Cmasked_local_phone%2Cprice%2Cfirst_image_thumb%2Cshare_deeplink&expand=postUrl%2Cprice_list%2Ccity%2Cneighborhood%2CsimilarStringCps%2CbookmarkStatus%2CcontactAddon%2Cbranding%2Cis_authorized_member&includeSelf=0"
+            },
+            "next": {
+                "href": "http://api-rev.opensooq.internal/v2.1/posts/238165432/search-post-recommended?per-page=8&page=2&fields=id%2Ctitle%2Cfirst_image_uri%2Cview_type%2Ccv_id%2Cnatural_date%2Clocal_phone%2Cmasked_local_phone%2Cprice%2Cfirst_image_thumb%2Cshare_deeplink&expand=postUrl%2Cprice_list%2Ccity%2Cneighborhood%2CsimilarStringCps%2CbookmarkStatus%2CcontactAddon%2Cbranding%2Cis_authorized_member&includeSelf=0"
+            }
+        },
+        "_meta": {
+            "totalCount": 2443,
+            "pageCount": 306,
+            "currentPage": 1,
+            "perPage": 8,
+            "title": "إعلانات مقترحة"
+        }
+    }
+}

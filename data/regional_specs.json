@@ -1,0 +1,32 @@
+[
+    {
+        "id": 18371,
+        "label_ar": "مواصفات خليجية",
+        "label_en": "GCC Specs",
+        "url_name": "مواصفات-خليجية"
+    },
+    {
+        "id": 18373,
+        "label_ar": "مواصفات يابانية",
+        "label_en": "Japanese Specs",
+        "url_name": "مواصفات-يابانية"
+    },
+    {
+        "id": 18375,
+        "label_ar": "مواصفات أمريكية",
+        "label_en": "American Specs",
+        "url_name": "مواصفات-امريكية"
+    },
+    {
+        "id": 18377,
+        "label_ar": "مواصفات أوروبية",
+        "label_en": "European Specs",
+        "url_name": "مواصفات-اوروبية"
+    },
+    {
+        "id": 18379,
+        "label_ar": "مواصفات أخرى",
+        "label_en": "Other Specs",
+        "url_name": "مواصفات-اخرى"
+    }
+]

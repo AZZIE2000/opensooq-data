@@ -1,0 +1,100 @@
+[
+    {
+        "id": 59,
+        "order": 1,
+        "url_name_ar": "عمان",
+        "url_name_en": "amman",
+        "name_arabic": "عمان"
+    },
+    {
+        "id": 60,
+        "order": 2,
+        "url_name_ar": "إربد",
+        "url_name_en": "irbid",
+        "name_arabic": "إربد"
+    },
+    {
+        "id": 83,
+        "order": 3,
+        "url_name_ar": "الزرقاء",
+        "url_name_en": "zarqa",
+        "name_arabic": "الزرقاء"
+    },
+    {
+        "id": 92,
+        "order": 4,
+        "url_name_ar": "السلط",
+        "url_name_en": "salt",
+        "name_arabic": "السلط"
+    },
+    {
+        "id": 128,
+        "order": 5,
+        "url_name_ar": "مادبا",
+        "url_name_en": "madaba",
+        "name_arabic": "مادبا"
+    },
+    {
+        "id": 61,
+        "order": 6,
+        "url_name_ar": "العقبة",
+        "url_name_en": "aqaba",
+        "name_arabic": "العقبة"
+    },
+    {
+        "id": 87,
+        "order": 7,
+        "url_name_ar": "المفرق",
+        "url_name_en": "mafraq",
+        "name_arabic": "المفرق"
+    },
+    {
+        "id": 91,
+        "order": 8,
+        "url_name_ar": "جرش",
+        "url_name_en": "jerash",
+        "name_arabic": "جرش"
+    },
+    {
+        "id": 89,
+        "order": 9,
+        "url_name_ar": "الكرك",
+        "url_name_en": "al-karak",
+        "name_arabic": "الكرك"
+    },
+    {
+        "id": 174,
+        "order": 10,
+        "url_name_ar": "عجلون",
+        "url_name_en": "ajloun",
+        "name_arabic": "عجلون"
+    },
+    {
+        "id": 62,
+        "order": 11,
+        "url_name_ar": "معان",
+        "url_name_en": "ma-an",
+        "name_arabic": "معان"
+    },
+    {
+        "id": 214,
+        "order": 12,
+        "url_name_ar": "الرمثا",
+        "url_name_en": "ramtha",
+        "name_arabic": "الرمثا"
+    },
+    {
+        "id": 175,
+        "order": 13,
+        "url_name_ar": "الطفيلة",
+        "url_name_en": "tafila",
+        "name_arabic": "الطفيلة"
+    },
+    {
+        "id": 655,
+        "order": 15,
+        "url_name_ar": "الغور",
+        "url_name_en": "jordan-valley",
+        "name_arabic": "الغور"
+    }
+]

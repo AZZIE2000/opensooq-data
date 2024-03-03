@@ -1,0 +1,818 @@
+[
+    {
+        "id": 12,
+        "abbreviation": "jo",
+        "facebook_url": "https://facebook.com/OpenSooq.Jordan",
+        "twitter_url": "https://twitter.com/OpenSooqJordan",
+        "phone_code": 962,
+        "instagram_url": "http://instagram.com/opensooq.jordan",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/jo.png",
+        "phone_size_min": 6,
+        "phone_size_max": 10,
+        "default_currency": 10,
+        "payment_contact": {
+            "whatsapp": "+962 7 9100 0913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 10,
+                "full_name_ar": "دينار أردني",
+                "full_name_en": "Jordanian Dinar",
+                "shorthand_ar": "دينار ",
+                "shorthand_en": "JOD",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": "0790180000",
+            "whatsapp": "+962 7 9100 0913",
+            "email": "jo@opensooq.com",
+            "location": {
+                "label_ar": "شارع مكة، أبراج الحجاز، رقم المبنى 158، الطابق السابع، المكتب 701، عمّان، المملكة الأردنية الهاشمية",
+                "label_en": "Mecca Street, Al Hijaaz Tower, Building 158, 7th Floor, Office 701, Amman, Hashemite Kingdom of Jordan"
+            }
+        },
+        "currency_ar": "دينار",
+        "name_arabic": "الأردن"
+    },
+    {
+        "id": 22,
+        "abbreviation": "iq",
+        "facebook_url": "https://facebook.com/OpenSooq.Iraq",
+        "twitter_url": "https://twitter.com/OpenSooqIraq",
+        "phone_code": 964,
+        "instagram_url": "https://instagram.com/opensooqiraq",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/iq.png",
+        "phone_size_min": 6,
+        "phone_size_max": 13,
+        "default_currency": 8,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 8,
+                "full_name_ar": "دينار عراقي",
+                "full_name_en": "Iraqi Dinar",
+                "shorthand_ar": "دينار ",
+                "shorthand_en": "IQD",
+                "isDefault": true
+            },
+            {
+                "id": 20,
+                "full_name_ar": "دولار أمريكي",
+                "full_name_en": "American Dollar",
+                "shorthand_ar": "دولار",
+                "shorthand_en": "USD"
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+964 783 500 0035",
+            "os_phone_number": "0783 500 0035",
+            "whatsapp": "+962 7 9100 0913",
+            "email": "iq@opensooq.com",
+            "location": {
+                "label_ar": "اليرموك، منطقة 616، رقم المبنى 2، الطابق الرابع، بغداد، جمهورية العراق",
+                "label_en": "Al Yarmouk, Area 616, Building 2, 4th Floor, Baghdad, Republic of Iraq"
+            }
+        },
+        "currency_ar": "دينار",
+        "name_arabic": "العراق"
+    },
+    {
+        "id": 1,
+        "abbreviation": "sa",
+        "facebook_url": "https://facebook.com/OpenSooq.KSA",
+        "twitter_url": "https://twitter.com/OpenSooqKSA",
+        "phone_code": 966,
+        "instagram_url": "http://instagram.com/opensooqksa",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/sa.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 1,
+        "payment_contact": {
+            "whatsapp": "962 7 9100 0913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 1,
+                "full_name_ar": "ريال سعودي",
+                "full_name_en": "Saudi Arabian Riyal",
+                "shorthand_ar": "ريال",
+                "shorthand_en": "SAR",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "962 7 9100 0913",
+            "email": "sa@opensooq.com",
+            "location": {
+                "label_ar": "شارع أنس بن مالك 3998، حي الياسمين 6622، فلك للأعمال والاستثمار، الرياض، المملكة العربية السعودية",
+                "label_en": "Anas Bin Malik Street 3998, Al Yasmeen District 6622, Falak Investment Hub, Riyadh, Saudi Arabia"
+            }
+        },
+        "currency_ar": "ريال",
+        "name_arabic": "السعودية"
+    },
+    {
+        "id": 8,
+        "abbreviation": "om",
+        "facebook_url": "https://facebook.com/OpenSooq.oman",
+        "twitter_url": "https://twitter.com/OpensooqOm",
+        "phone_code": 968,
+        "instagram_url": "http://instagram.com/opensooqoman",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/om.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 3,
+        "payment_contact": {
+            "whatsapp": "+962 7 9100 0913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 3,
+                "full_name_ar": "ريال عماني",
+                "full_name_en": "Omani Rial",
+                "shorthand_ar": "ريال ",
+                "shorthand_en": "OMR",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+968 2102 4700",
+            "os_phone_number": "2102 4700",
+            "whatsapp": "+962 7 9100 0913",
+            "email": "om@opensooq.com",
+            "location": {
+                "label_ar": "الغبرة الشمالية، 14 بوشر، رقم المبنى 5580، المكتب 44، مسقط، سلطنة عُمان",
+                "label_en": "Al Ghabra Al Shamliya, 14 Boucher, Building 5580, Office 44, Muscat, Sultanate of Oman"
+            }
+        },
+        "currency_ar": "ريال",
+        "name_arabic": "عُمان"
+    },
+    {
+        "id": 9,
+        "abbreviation": "kw",
+        "facebook_url": "https://facebook.com/OpenSooq.kuwait",
+        "twitter_url": "https://twitter.com/OpenSooqKuwait",
+        "phone_code": 965,
+        "instagram_url": "http://instagram.com/opensooqkuwait",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/kw.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 4,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 4,
+                "full_name_ar": "دينار كويتي",
+                "full_name_en": "Kuwaiti Dinar",
+                "shorthand_ar": "دينار ",
+                "shorthand_en": "KWD",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+965 222 60 01 6",
+            "os_phone_number": "222 60 01 6",
+            "whatsapp": "+962 7 9100 0913",
+            "email": "kw@opensooq.com",
+            "location": {
+                "label_ar": "شارع عمر بن الخطاب، قطعة 3، المرقاب، برج شيماء، الطابق الثاني عشر، المكتب 1، مدينة الكويت، دولة الكويت",
+                "label_en": "Omar Bin Al Khattab Street, Plot 3, Al Merqab, Shaima Tower, 12th Floor, Office 1, Kuwait City, State of Kuwait"
+            }
+        },
+        "currency_ar": "دينار",
+        "name_arabic": "الكويت"
+    },
+    {
+        "id": 5,
+        "abbreviation": "ae",
+        "facebook_url": "https://facebook.com/OpenSooq.uae",
+        "twitter_url": "https://twitter.com/OpenSooqUAE",
+        "phone_code": 971,
+        "instagram_url": "http://instagram.com/opensooqae",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/ae.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 2,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 2,
+                "full_name_ar": "درهم إمراتي",
+                "full_name_en": "Emirati Dirham",
+                "shorthand_ar": "درهم",
+                "shorthand_en": "AED",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "ae@opensooq.com",
+            "location": {
+                "label_ar": "مدينة دبي للإعلام، دي كوارترز، رقم المبنى 5، الطابق الأول، المكتب 119، دبي، الأمارات العربية المتحدة",
+                "label_en": "Dubai Media City, Dquarters, Building DMC5, 1st Floor, Office 119, Dubai, United Arab Emirates"
+            }
+        },
+        "currency_ar": "درهم",
+        "name_arabic": "الإمارات"
+    },
+    {
+        "id": 6,
+        "abbreviation": "bh",
+        "facebook_url": "https://facebook.com/OpenSooq.bahrain",
+        "twitter_url": "https://twitter.com/OpenSooqBahrain",
+        "phone_code": 973,
+        "instagram_url": "https://instagram.com/opensooqbahrain",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/bh.png",
+        "phone_size_min": 0,
+        "phone_size_max": 25,
+        "default_currency": 6,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 6,
+                "full_name_ar": "دينار بحريني",
+                "full_name_en": "Bahraini Dinar",
+                "shorthand_ar": "دينار ",
+                "shorthand_en": "BHD",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "bh@opensooq.com",
+            "location": {
+                "label_ar": "البحرين, منامة",
+                "label_en": "Bahrain, Manama"
+            }
+        },
+        "currency_ar": "دينار",
+        "name_arabic": "البحرين"
+    },
+    {
+        "id": 7,
+        "abbreviation": "qa",
+        "facebook_url": "https://facebook.com/OpenSooq.qatar",
+        "twitter_url": "https://twitter.com/OpenSooqQatar",
+        "phone_code": 974,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/qa.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 5,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 5,
+                "full_name_ar": "ريال قطري",
+                "full_name_en": "Qatari Riyal",
+                "shorthand_ar": "ريال ",
+                "shorthand_en": "QAR",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "qa@opensooq.com",
+            "location": {
+                "label_ar": "قطر, الدوحة",
+                "label_en": "Qatar, Doha"
+            }
+        },
+        "currency_ar": "ريال",
+        "name_arabic": "قطر"
+    },
+    {
+        "id": 11,
+        "abbreviation": "ly",
+        "facebook_url": "https://facebook.com/OpenSooq.libya",
+        "twitter_url": "https://twitter.com/OpenSooqLibya",
+        "phone_code": 218,
+        "instagram_url": "https://instagram.com/opensooqlibya",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/ly.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 14,
+        "payment_contact": {
+            "whatsapp": "+962 7 9100 0913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 14,
+                "full_name_ar": "دينار ليبي",
+                "full_name_en": "Libyan Dinar",
+                "shorthand_ar": "دينار ",
+                "shorthand_en": "LYD",
+                "isDefault": true
+            },
+            {
+                "id": 20,
+                "full_name_ar": "دولار أمريكي",
+                "full_name_en": "American Dollar",
+                "shorthand_ar": "دولار",
+                "shorthand_en": "USD"
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "ly@opensooq.com",
+            "location": {
+                "label_ar": "ليبيا, طرابلس",
+                "label_en": "Libya, Tripoli"
+            }
+        },
+        "currency_ar": "دينار",
+        "name_arabic": "ليبيا"
+    },
+    {
+        "id": 2,
+        "abbreviation": "eg",
+        "facebook_url": "https://facebook.com/OpenSooq.egypt",
+        "twitter_url": "https://twitter.com/OpenSooqEgypt",
+        "phone_code": 20,
+        "instagram_url": "http://instagram.com/opensooqegypt",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/eg.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 13,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 13,
+                "full_name_ar": "جنيه مصري",
+                "full_name_en": "Egyptian Pound",
+                "shorthand_ar": "جنيه ",
+                "shorthand_en": "EGP",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "eg@opensooq.com",
+            "location": {
+                "label_ar": "مصر, القاهرة",
+                "label_en": "Egypt, Cairo"
+            }
+        },
+        "currency_ar": "جنيه",
+        "name_arabic": "مصر"
+    },
+    {
+        "id": 23,
+        "abbreviation": "sd",
+        "facebook_url": "https://facebook.com/OpenSooq.sudan",
+        "twitter_url": "https://twitter.com/OpenSooqSudan",
+        "phone_code": 249,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/sd.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 15,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 15,
+                "full_name_ar": "جنيه سوداني",
+                "full_name_en": "Sudanese Pound",
+                "shorthand_ar": "جنيه ",
+                "shorthand_en": "SDG",
+                "isDefault": true
+            },
+            {
+                "id": 20,
+                "full_name_ar": "دولار أمريكي",
+                "full_name_en": "American Dollar",
+                "shorthand_ar": "دولار",
+                "shorthand_en": "USD"
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "sd@opensooq.com",
+            "location": {
+                "label_ar": "السودان, الخرطوم",
+                "label_en": "Sudan, Kharoum"
+            }
+        },
+        "currency_ar": "جنيه",
+        "name_arabic": "السودان"
+    },
+    {
+        "id": 14,
+        "abbreviation": "ps",
+        "facebook_url": "https://facebook.com/OpenSooq.palestine",
+        "twitter_url": "https://twitter.com/OpenSooqPal",
+        "phone_code": 970,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/ps.png",
+        "phone_size_min": 0,
+        "phone_size_max": 25,
+        "default_currency": 12,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 12,
+                "full_name_ar": "شيكل",
+                "full_name_en": "Shekel",
+                "shorthand_ar": "شيكل",
+                "shorthand_en": "ILS",
+                "isDefault": true
+            },
+            {
+                "id": 20,
+                "full_name_ar": "دولار أمريكي",
+                "full_name_en": "American Dollar",
+                "shorthand_ar": "دولار",
+                "shorthand_en": "USD"
+            },
+            {
+                "id": 10,
+                "full_name_ar": "دينار أردني",
+                "full_name_en": "Jordanian Dinar",
+                "shorthand_ar": "دينار ",
+                "shorthand_en": "JOD"
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "ps@opensooq.com",
+            "location": {
+                "label_ar": "البيرة، برج عمار، الطابق الرابع، محافظة رام الله والبيرة، دولة فلسطين",
+                "label_en": "Al-Bireh, Amaar Tower, 4th Floor, Ramallah & Al-Bireh Governorate, State of Palestine"
+            }
+        },
+        "currency_ar": "شيكل",
+        "name_arabic": "فلسطين"
+    },
+    {
+        "id": 4,
+        "abbreviation": "ye",
+        "facebook_url": "https://facebook.com/OpenSooq.Yemen",
+        "twitter_url": "https://twitter.com/OpenSooqYemen",
+        "phone_code": 967,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/ye.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 7,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 7,
+                "full_name_ar": "ريال يمني",
+                "full_name_en": "Yemeni Rial",
+                "shorthand_ar": "ريال ",
+                "shorthand_en": "YER",
+                "isDefault": true
+            },
+            {
+                "id": 20,
+                "full_name_ar": "دولار أمريكي",
+                "full_name_en": "American Dollar",
+                "shorthand_ar": "دولار",
+                "shorthand_en": "USD"
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "ye@opensooq.com",
+            "location": {
+                "label_ar": "اليمن, صنعاء",
+                "label_en": "Yemen, Sana'a"
+            }
+        },
+        "currency_ar": "ريال",
+        "name_arabic": "اليمن"
+    },
+    {
+        "id": 25,
+        "abbreviation": "tr",
+        "facebook_url": "https://facebook.com/opensooq",
+        "twitter_url": "https://twitter.com/OpenSooq",
+        "phone_code": 90,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/tr.png",
+        "phone_size_min": 0,
+        "phone_size_max": 25,
+        "default_currency": 21,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 20,
+                "full_name_ar": "دولار أمريكي",
+                "full_name_en": "American Dollar",
+                "shorthand_ar": "دولار",
+                "shorthand_en": "USD"
+            },
+            {
+                "id": 21,
+                "full_name_ar": "ليرة تركي",
+                "full_name_en": "Turkish Lira",
+                "shorthand_ar": "ليرة",
+                "shorthand_en": "TRY",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "tr@opensooq.com",
+            "location": {
+                "label_ar": "تركيا، إسطنبول",
+                "label_en": "Turkey, Istanbul"
+            }
+        },
+        "currency_ar": "ليرة",
+        "name_arabic": "تركيا"
+    },
+    {
+        "id": 20,
+        "abbreviation": "lb",
+        "facebook_url": "https://facebook.com/opensooq.Lebanon",
+        "twitter_url": "https://twitter.com/OpenSooqLebanon",
+        "phone_code": 961,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/lb.png",
+        "phone_size_min": 0,
+        "phone_size_max": 25,
+        "default_currency": 20,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 11,
+                "full_name_ar": "ليرة لبناني",
+                "full_name_en": "Lebanese Pound",
+                "shorthand_ar": "ليرة",
+                "shorthand_en": "LBP"
+            },
+            {
+                "id": 20,
+                "full_name_ar": "دولار أمريكي",
+                "full_name_en": "American Dollar",
+                "shorthand_ar": "دولار",
+                "shorthand_en": "USD",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "lb@opensooq.com",
+            "location": {
+                "label_ar": "لبنان, بيروت",
+                "label_en": "Lebanon, Beirut"
+            }
+        },
+        "currency_ar": "دولار",
+        "name_arabic": "لبنان"
+    },
+    {
+        "id": 18,
+        "abbreviation": "dz",
+        "facebook_url": "https://facebook.com/OpenSooq.algerie",
+        "twitter_url": "https://twitter.com/OpenSooqAlgerie",
+        "phone_code": 213,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/dz.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 17,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 17,
+                "full_name_ar": "دينار جزائري",
+                "full_name_en": "Algerian Dinar",
+                "shorthand_ar": "دينار ",
+                "shorthand_en": "DZD",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "dz@opensooq.com",
+            "location": {
+                "label_ar": "الجزائر, االجزائر",
+                "label_en": "Algeria, Algeria"
+            }
+        },
+        "currency_ar": "دينار",
+        "name_arabic": "الجزائر"
+    },
+    {
+        "id": 19,
+        "abbreviation": "ma",
+        "facebook_url": "https://facebook.com/OpenSooq.maroc",
+        "twitter_url": "https://twitter.com/OpenSooqMaroc",
+        "phone_code": 212,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/ma.png",
+        "phone_size_min": 0,
+        "phone_size_max": 25,
+        "default_currency": 18,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 18,
+                "full_name_ar": "درهم مغربي",
+                "full_name_en": "Moroccan Dirham",
+                "shorthand_ar": "درهم ",
+                "shorthand_en": "MAD",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "ma@opensooq.com",
+            "location": {
+                "label_ar": "المغرب, كازابلانكا",
+                "label_en": "Morocco, Casablanca"
+            }
+        },
+        "currency_ar": "درهم",
+        "name_arabic": "المغرب"
+    },
+    {
+        "id": 17,
+        "abbreviation": "tn",
+        "facebook_url": "https://facebook.com/OpenSooq.tunisie",
+        "twitter_url": "https://twitter.com/OpenSooqTunisie",
+        "phone_code": 216,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/tn.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 16,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 16,
+                "full_name_ar": "دينار تونس",
+                "full_name_en": "Tunisian Dinar",
+                "shorthand_ar": "دينار ",
+                "shorthand_en": "TND",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "tn@opensooq.com",
+            "location": {
+                "label_ar": "تونس, تونس",
+                "label_en": "Tunisia, Tunis"
+            }
+        },
+        "currency_ar": "دينار",
+        "name_arabic": "تونس"
+    },
+    {
+        "id": 13,
+        "abbreviation": "sy",
+        "facebook_url": "https://facebook.com/OpenSooq.syria",
+        "twitter_url": "https://twitter.com/OpenSooqSyria",
+        "phone_code": 963,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/sy.png",
+        "phone_size_min": 0,
+        "phone_size_max": 25,
+        "default_currency": 9,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 9,
+                "full_name_ar": "ليرة سوري",
+                "full_name_en": "Syrian Lira",
+                "shorthand_ar": "ليرة",
+                "shorthand_en": "SYP",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "sy@opensooq.com",
+            "location": {
+                "label_ar": "سوريا, دمشق",
+                "label_en": "Syria, Damascus"
+            }
+        },
+        "currency_ar": "ليرة",
+        "name_arabic": "سوريا"
+    },
+    {
+        "id": 24,
+        "abbreviation": "mr",
+        "facebook_url": "https://facebook.com/OpenSooq.mauritania",
+        "twitter_url": "https://twitter.com/OpenSooqMr",
+        "phone_code": 222,
+        "instagram_url": "http://instagram.com/opensooq/",
+        "icon": "https://opensooqui2.os-cdn.com/mobileV2/icons/medium/CircularFlags/mr.png",
+        "phone_size_min": 6,
+        "phone_size_max": 12,
+        "default_currency": 19,
+        "payment_contact": {
+            "whatsapp": "+962791000913",
+            "email": "payment@opensooq.com"
+        },
+        "currencies": [
+            {
+                "id": 19,
+                "full_name_ar": "أوقية موريتانية",
+                "full_name_en": "Mauritanian Ouguiya",
+                "shorthand_ar": "أوقية ",
+                "shorthand_en": "MRO",
+                "isDefault": true
+            }
+        ],
+        "contact_info": {
+            "phone_number": "+962 7 9018 0000",
+            "os_phone_number": null,
+            "whatsapp": "+962 7 9100 0913",
+            "email": "mr@opensooq.com",
+            "location": {
+                "label_ar": "موريتانيا, نواكشوط",
+                "label_en": "Mauritania, Nouakchott"
+            }
+        },
+        "currency_ar": "أوقيه",
+        "name_arabic": "موريتانيا"
+    }
+]

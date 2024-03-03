@@ -1,0 +1,42 @@
+[
+    {
+        "id": 7692,
+        "label_ar": "صالون / سيدان",
+        "label_en": "Sedan"
+    },
+    {
+        "id": 7698,
+        "label_ar": "كوبيه",
+        "label_en": "Coupe"
+    },
+    {
+        "id": 7700,
+        "label_ar": "كشف",
+        "label_en": "Convertible"
+    },
+    {
+        "id": 7694,
+        "label_ar": "اس يو في",
+        "label_en": "SUV"
+    },
+    {
+        "id": 7696,
+        "label_ar": "هاتشباك",
+        "label_en": "HatchBack"
+    },
+    {
+        "id": 7702,
+        "label_ar": "باص / فان",
+        "label_en": "Bus - Van"
+    },
+    {
+        "id": 7704,
+        "label_ar": "بيك اب",
+        "label_en": "PickUp"
+    },
+    {
+        "id": 7706,
+        "label_ar": "شاحنة",
+        "label_en": "Truck"
+    }
+]
